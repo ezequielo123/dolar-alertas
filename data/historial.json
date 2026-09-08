@@ -1,0 +1,6402 @@
+[
+  {
+    "fecha": "2024-07-01",
+    "oficialCompra": 892.5,
+    "oficialVenta": 932.5,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": 50.67
+  },
+  {
+    "fecha": "2024-07-02",
+    "oficialCompra": 893,
+    "oficialVenta": 933,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 53.27
+  },
+  {
+    "fecha": "2024-07-03",
+    "oficialCompra": 893.5,
+    "oficialVenta": 933.5,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 52.65
+  },
+  {
+    "fecha": "2024-07-04",
+    "oficialCompra": 894,
+    "oficialVenta": 934,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": 50.43
+  },
+  {
+    "fecha": "2024-07-05",
+    "oficialCompra": 894.5,
+    "oficialVenta": 934.5,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 51.95
+  },
+  {
+    "fecha": "2024-07-06",
+    "oficialCompra": 894.5,
+    "oficialVenta": 934.5,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 51.95
+  },
+  {
+    "fecha": "2024-07-07",
+    "oficialCompra": 894.5,
+    "oficialVenta": 934.5,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 51.95
+  },
+  {
+    "fecha": "2024-07-08",
+    "oficialCompra": 896.5,
+    "oficialVenta": 936.5,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 53.76
+  },
+  {
+    "fecha": "2024-07-09",
+    "oficialCompra": 896.5,
+    "oficialVenta": 936.5,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 53.76
+  },
+  {
+    "fecha": "2024-07-10",
+    "oficialCompra": 897.5,
+    "oficialVenta": 937.5,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": 54.67
+  },
+  {
+    "fecha": "2024-07-11",
+    "oficialCompra": 898,
+    "oficialVenta": 938,
+    "blueCompra": 1445,
+    "blueVenta": 1465,
+    "brecha": 56.18
+  },
+  {
+    "fecha": "2024-07-12",
+    "oficialCompra": 900,
+    "oficialVenta": 940,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 59.57
+  },
+  {
+    "fecha": "2024-07-13",
+    "oficialCompra": 900,
+    "oficialVenta": 940,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 59.57
+  },
+  {
+    "fecha": "2024-07-14",
+    "oficialCompra": 900,
+    "oficialVenta": 940,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 59.57
+  },
+  {
+    "fecha": "2024-07-15",
+    "oficialCompra": 900.5,
+    "oficialVenta": 940.5,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 50.45
+  },
+  {
+    "fecha": "2024-07-16",
+    "oficialCompra": 901,
+    "oficialVenta": 941,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": 49.31
+  },
+  {
+    "fecha": "2024-07-17",
+    "oficialCompra": 902,
+    "oficialVenta": 942,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": 54.46
+  },
+  {
+    "fecha": "2024-07-18",
+    "oficialCompra": 902.5,
+    "oficialVenta": 942.5,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": 54.38
+  },
+  {
+    "fecha": "2024-07-19",
+    "oficialCompra": 904.5,
+    "oficialVenta": 944.5,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 52.99
+  },
+  {
+    "fecha": "2024-07-20",
+    "oficialCompra": 904.5,
+    "oficialVenta": 944.5,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 52.99
+  },
+  {
+    "fecha": "2024-07-21",
+    "oficialCompra": 904.5,
+    "oficialVenta": 944.5,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 52.99
+  },
+  {
+    "fecha": "2024-07-22",
+    "oficialCompra": 906,
+    "oficialVenta": 946,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 52.22
+  },
+  {
+    "fecha": "2024-07-23",
+    "oficialCompra": 906,
+    "oficialVenta": 946,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 52.75
+  },
+  {
+    "fecha": "2024-07-24",
+    "oficialCompra": 906.5,
+    "oficialVenta": 946.5,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": 53.2
+  },
+  {
+    "fecha": "2024-07-25",
+    "oficialCompra": 907.5,
+    "oficialVenta": 947.5,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 52.51
+  },
+  {
+    "fecha": "2024-07-26",
+    "oficialCompra": 910,
+    "oficialVenta": 950,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 51.05
+  },
+  {
+    "fecha": "2024-07-27",
+    "oficialCompra": 910,
+    "oficialVenta": 950,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 51.05
+  },
+  {
+    "fecha": "2024-07-28",
+    "oficialCompra": 910,
+    "oficialVenta": 950,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 51.05
+  },
+  {
+    "fecha": "2024-07-29",
+    "oficialCompra": 910.5,
+    "oficialVenta": 950.5,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 48.87
+  },
+  {
+    "fecha": "2024-07-30",
+    "oficialCompra": 911,
+    "oficialVenta": 951,
+    "blueCompra": 1365,
+    "blueVenta": 1385,
+    "brecha": 45.64
+  },
+  {
+    "fecha": "2024-07-31",
+    "oficialCompra": 911.5,
+    "oficialVenta": 951.5,
+    "blueCompra": 1350,
+    "blueVenta": 1370,
+    "brecha": 43.98
+  },
+  {
+    "fecha": "2024-08-01",
+    "oficialCompra": 911.5,
+    "oficialVenta": 951.5,
+    "blueCompra": 1360,
+    "blueVenta": 1380,
+    "brecha": 45.03
+  },
+  {
+    "fecha": "2024-08-02",
+    "oficialCompra": 913.5,
+    "oficialVenta": 953.5,
+    "blueCompra": 1375,
+    "blueVenta": 1395,
+    "brecha": 46.3
+  },
+  {
+    "fecha": "2024-08-03",
+    "oficialCompra": 913.5,
+    "oficialVenta": 953.5,
+    "blueCompra": 1375,
+    "blueVenta": 1395,
+    "brecha": 46.3
+  },
+  {
+    "fecha": "2024-08-04",
+    "oficialCompra": 913.5,
+    "oficialVenta": 953.5,
+    "blueCompra": 1375,
+    "blueVenta": 1395,
+    "brecha": 46.3
+  },
+  {
+    "fecha": "2024-08-05",
+    "oficialCompra": 914,
+    "oficialVenta": 954,
+    "blueCompra": 1370,
+    "blueVenta": 1390,
+    "brecha": 45.7
+  },
+  {
+    "fecha": "2024-08-06",
+    "oficialCompra": 914.5,
+    "oficialVenta": 954.5,
+    "blueCompra": 1355,
+    "blueVenta": 1375,
+    "brecha": 44.05
+  },
+  {
+    "fecha": "2024-08-07",
+    "oficialCompra": 915.5,
+    "oficialVenta": 955.5,
+    "blueCompra": 1365,
+    "blueVenta": 1385,
+    "brecha": 44.95
+  },
+  {
+    "fecha": "2024-08-08",
+    "oficialCompra": 915.5,
+    "oficialVenta": 955.5,
+    "blueCompra": 1355,
+    "blueVenta": 1375,
+    "brecha": 43.9
+  },
+  {
+    "fecha": "2024-08-09",
+    "oficialCompra": 917.5,
+    "oficialVenta": 957.5,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 41.51
+  },
+  {
+    "fecha": "2024-08-10",
+    "oficialCompra": 917.5,
+    "oficialVenta": 957.5,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 41.51
+  },
+  {
+    "fecha": "2024-08-11",
+    "oficialCompra": 917.5,
+    "oficialVenta": 957.5,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 41.51
+  },
+  {
+    "fecha": "2024-08-12",
+    "oficialCompra": 918,
+    "oficialVenta": 958,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 40.92
+  },
+  {
+    "fecha": "2024-08-13",
+    "oficialCompra": 918.5,
+    "oficialVenta": 958.5,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 41.37
+  },
+  {
+    "fecha": "2024-08-14",
+    "oficialCompra": 919,
+    "oficialVenta": 959,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 41.29
+  },
+  {
+    "fecha": "2024-08-15",
+    "oficialCompra": 920,
+    "oficialVenta": 960,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 40.63
+  },
+  {
+    "fecha": "2024-08-16",
+    "oficialCompra": 921.5,
+    "oficialVenta": 961.5,
+    "blueCompra": 1325,
+    "blueVenta": 1345,
+    "brecha": 39.89
+  },
+  {
+    "fecha": "2024-08-17",
+    "oficialCompra": 922,
+    "oficialVenta": 962,
+    "blueCompra": 1325,
+    "blueVenta": 1345,
+    "brecha": 39.81
+  },
+  {
+    "fecha": "2024-08-18",
+    "oficialCompra": 922,
+    "oficialVenta": 962,
+    "blueCompra": 1325,
+    "blueVenta": 1345,
+    "brecha": 39.81
+  },
+  {
+    "fecha": "2024-08-19",
+    "oficialCompra": 923,
+    "oficialVenta": 963,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 40.19
+  },
+  {
+    "fecha": "2024-08-20",
+    "oficialCompra": 923,
+    "oficialVenta": 963,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 40.71
+  },
+  {
+    "fecha": "2024-08-21",
+    "oficialCompra": 923.5,
+    "oficialVenta": 963.5,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 40.63
+  },
+  {
+    "fecha": "2024-08-22",
+    "oficialCompra": 924,
+    "oficialVenta": 964,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 40.04
+  },
+  {
+    "fecha": "2024-08-23",
+    "oficialCompra": 926,
+    "oficialVenta": 966,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 39.75
+  },
+  {
+    "fecha": "2024-08-24",
+    "oficialCompra": 926,
+    "oficialVenta": 966,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 39.75
+  },
+  {
+    "fecha": "2024-08-25",
+    "oficialCompra": 926,
+    "oficialVenta": 966,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 39.75
+  },
+  {
+    "fecha": "2024-08-26",
+    "oficialCompra": 928,
+    "oficialVenta": 968,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 39.46
+  },
+  {
+    "fecha": "2024-08-27",
+    "oficialCompra": 929.5,
+    "oficialVenta": 969.5,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 38.22
+  },
+  {
+    "fecha": "2024-08-28",
+    "oficialCompra": 929.5,
+    "oficialVenta": 969.5,
+    "blueCompra": 1315,
+    "blueVenta": 1335,
+    "brecha": 37.7
+  },
+  {
+    "fecha": "2024-08-29",
+    "oficialCompra": 930,
+    "oficialVenta": 970,
+    "blueCompra": 1295,
+    "blueVenta": 1315,
+    "brecha": 35.57
+  },
+  {
+    "fecha": "2024-08-30",
+    "oficialCompra": 932,
+    "oficialVenta": 972,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 34.26
+  },
+  {
+    "fecha": "2024-08-31",
+    "oficialCompra": 932,
+    "oficialVenta": 972,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 34.26
+  },
+  {
+    "fecha": "2024-09-01",
+    "oficialCompra": 932,
+    "oficialVenta": 972,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 34.26
+  },
+  {
+    "fecha": "2024-09-02",
+    "oficialCompra": 933,
+    "oficialVenta": 973,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 34.12
+  },
+  {
+    "fecha": "2024-09-03",
+    "oficialCompra": 933,
+    "oficialVenta": 973,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 34.64
+  },
+  {
+    "fecha": "2024-09-04",
+    "oficialCompra": 933.5,
+    "oficialVenta": 973.5,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 34.05
+  },
+  {
+    "fecha": "2024-09-05",
+    "oficialCompra": 934,
+    "oficialVenta": 974,
+    "blueCompra": 1245,
+    "blueVenta": 1265,
+    "brecha": 29.88
+  },
+  {
+    "fecha": "2024-09-06",
+    "oficialCompra": 936.5,
+    "oficialVenta": 976.5,
+    "blueCompra": 1240,
+    "blueVenta": 1260,
+    "brecha": 29.03
+  },
+  {
+    "fecha": "2024-09-07",
+    "oficialCompra": 936.5,
+    "oficialVenta": 976.5,
+    "blueCompra": 1240,
+    "blueVenta": 1260,
+    "brecha": 29.03
+  },
+  {
+    "fecha": "2024-09-08",
+    "oficialCompra": 936.5,
+    "oficialVenta": 976.5,
+    "blueCompra": 1240,
+    "blueVenta": 1260,
+    "brecha": 29.03
+  },
+  {
+    "fecha": "2024-09-09",
+    "oficialCompra": 937,
+    "oficialVenta": 977,
+    "blueCompra": 1250,
+    "blueVenta": 1270,
+    "brecha": 29.99
+  },
+  {
+    "fecha": "2024-09-10",
+    "oficialCompra": 938,
+    "oficialVenta": 978,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 30.88
+  },
+  {
+    "fecha": "2024-09-11",
+    "oficialCompra": 938,
+    "oficialVenta": 978,
+    "blueCompra": 1265,
+    "blueVenta": 1285,
+    "brecha": 31.39
+  },
+  {
+    "fecha": "2024-09-12",
+    "oficialCompra": 938.5,
+    "oficialVenta": 978.5,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 30.81
+  },
+  {
+    "fecha": "2024-09-13",
+    "oficialCompra": 940.5,
+    "oficialVenta": 980.5,
+    "blueCompra": 1245,
+    "blueVenta": 1265,
+    "brecha": 29.02
+  },
+  {
+    "fecha": "2024-09-14",
+    "oficialCompra": 940.5,
+    "oficialVenta": 980.5,
+    "blueCompra": 1245,
+    "blueVenta": 1265,
+    "brecha": 29.02
+  },
+  {
+    "fecha": "2024-09-15",
+    "oficialCompra": 940.5,
+    "oficialVenta": 980.5,
+    "blueCompra": 1245,
+    "blueVenta": 1265,
+    "brecha": 29.02
+  },
+  {
+    "fecha": "2024-09-16",
+    "oficialCompra": 942,
+    "oficialVenta": 982,
+    "blueCompra": 1255,
+    "blueVenta": 1275,
+    "brecha": 29.84
+  },
+  {
+    "fecha": "2024-09-17",
+    "oficialCompra": 942,
+    "oficialVenta": 982,
+    "blueCompra": 1250,
+    "blueVenta": 1270,
+    "brecha": 29.33
+  },
+  {
+    "fecha": "2024-09-18",
+    "oficialCompra": 942,
+    "oficialVenta": 982,
+    "blueCompra": 1240,
+    "blueVenta": 1260,
+    "brecha": 28.31
+  },
+  {
+    "fecha": "2024-09-19",
+    "oficialCompra": 943.5,
+    "oficialVenta": 983.5,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 26.08
+  },
+  {
+    "fecha": "2024-09-20",
+    "oficialCompra": 945,
+    "oficialVenta": 985,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 26.4
+  },
+  {
+    "fecha": "2024-09-21",
+    "oficialCompra": 945,
+    "oficialVenta": 985,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 26.4
+  },
+  {
+    "fecha": "2024-09-22",
+    "oficialCompra": 945,
+    "oficialVenta": 985,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 26.4
+  },
+  {
+    "fecha": "2024-09-23",
+    "oficialCompra": 945.5,
+    "oficialVenta": 985.5,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 26.33
+  },
+  {
+    "fecha": "2024-09-24",
+    "oficialCompra": 946,
+    "oficialVenta": 986,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 26.27
+  },
+  {
+    "fecha": "2024-09-25",
+    "oficialCompra": 947,
+    "oficialVenta": 987,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 25.63
+  },
+  {
+    "fecha": "2024-09-26",
+    "oficialCompra": 948.5,
+    "oficialVenta": 988.5,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 24.43
+  },
+  {
+    "fecha": "2024-09-27",
+    "oficialCompra": 949.5,
+    "oficialVenta": 989.5,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 25.82
+  },
+  {
+    "fecha": "2024-09-28",
+    "oficialCompra": 949.5,
+    "oficialVenta": 989.5,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 25.82
+  },
+  {
+    "fecha": "2024-09-29",
+    "oficialCompra": 949.5,
+    "oficialVenta": 989.5,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 25.82
+  },
+  {
+    "fecha": "2024-09-30",
+    "oficialCompra": 950,
+    "oficialVenta": 990,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 24.75
+  },
+  {
+    "fecha": "2024-10-01",
+    "oficialCompra": 950.5,
+    "oficialVenta": 990.5,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 23.17
+  },
+  {
+    "fecha": "2024-10-02",
+    "oficialCompra": 951,
+    "oficialVenta": 991,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 22.6
+  },
+  {
+    "fecha": "2024-10-03",
+    "oficialCompra": 952.5,
+    "oficialVenta": 992.5,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 21.41
+  },
+  {
+    "fecha": "2024-10-04",
+    "oficialCompra": 954,
+    "oficialVenta": 994,
+    "blueCompra": 1175,
+    "blueVenta": 1195,
+    "brecha": 20.22
+  },
+  {
+    "fecha": "2024-10-05",
+    "oficialCompra": 954,
+    "oficialVenta": 994,
+    "blueCompra": 1175,
+    "blueVenta": 1195,
+    "brecha": 20.22
+  },
+  {
+    "fecha": "2024-10-06",
+    "oficialCompra": 954,
+    "oficialVenta": 994,
+    "blueCompra": 1175,
+    "blueVenta": 1195,
+    "brecha": 20.22
+  },
+  {
+    "fecha": "2024-10-07",
+    "oficialCompra": 955,
+    "oficialVenta": 995,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": 19.1
+  },
+  {
+    "fecha": "2024-10-08",
+    "oficialCompra": 955.5,
+    "oficialVenta": 995.5,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 18.03
+  },
+  {
+    "fecha": "2024-10-09",
+    "oficialCompra": 955.5,
+    "oficialVenta": 995.5,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 18.03
+  },
+  {
+    "fecha": "2024-10-10",
+    "oficialCompra": 958.5,
+    "oficialVenta": 998.5,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": 18.18
+  },
+  {
+    "fecha": "2024-10-11",
+    "oficialCompra": 958.5,
+    "oficialVenta": 998.5,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": 18.18
+  },
+  {
+    "fecha": "2024-10-12",
+    "oficialCompra": 958.5,
+    "oficialVenta": 998.5,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": 18.18
+  },
+  {
+    "fecha": "2024-10-13",
+    "oficialCompra": 958.5,
+    "oficialVenta": 998.5,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": 18.18
+  },
+  {
+    "fecha": "2024-10-14",
+    "oficialCompra": 959.5,
+    "oficialVenta": 999.5,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": 19.06
+  },
+  {
+    "fecha": "2024-10-15",
+    "oficialCompra": 960,
+    "oficialVenta": 1000,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 23.5
+  },
+  {
+    "fecha": "2024-10-16",
+    "oficialCompra": 960.5,
+    "oficialVenta": 1000.5,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 21.94
+  },
+  {
+    "fecha": "2024-10-17",
+    "oficialCompra": 961,
+    "oficialVenta": 1001,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 21.88
+  },
+  {
+    "fecha": "2024-10-18",
+    "oficialCompra": 964,
+    "oficialVenta": 1004,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 22.01
+  },
+  {
+    "fecha": "2024-10-19",
+    "oficialCompra": 964,
+    "oficialVenta": 1004,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 22.01
+  },
+  {
+    "fecha": "2024-10-20",
+    "oficialCompra": 964,
+    "oficialVenta": 1004,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 22.01
+  },
+  {
+    "fecha": "2024-10-21",
+    "oficialCompra": 964.5,
+    "oficialVenta": 1004.5,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 23.44
+  },
+  {
+    "fecha": "2024-10-22",
+    "oficialCompra": 964.5,
+    "oficialVenta": 1004.5,
+    "blueCompra": 1225,
+    "blueVenta": 1245,
+    "brecha": 23.94
+  },
+  {
+    "fecha": "2024-10-23",
+    "oficialCompra": 965,
+    "oficialVenta": 1005,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 22.39
+  },
+  {
+    "fecha": "2024-10-24",
+    "oficialCompra": 965.5,
+    "oficialVenta": 1005.5,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 20.84
+  },
+  {
+    "fecha": "2024-10-25",
+    "oficialCompra": 967.5,
+    "oficialVenta": 1007.5,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 21.59
+  },
+  {
+    "fecha": "2024-10-26",
+    "oficialCompra": 967.5,
+    "oficialVenta": 1007.5,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 21.59
+  },
+  {
+    "fecha": "2024-10-27",
+    "oficialCompra": 967.5,
+    "oficialVenta": 1007.5,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 21.59
+  },
+  {
+    "fecha": "2024-10-28",
+    "oficialCompra": 968,
+    "oficialVenta": 1008,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 21.03
+  },
+  {
+    "fecha": "2024-10-29",
+    "oficialCompra": 968.5,
+    "oficialVenta": 1008.5,
+    "blueCompra": 1175,
+    "blueVenta": 1195,
+    "brecha": 18.49
+  },
+  {
+    "fecha": "2024-10-30",
+    "oficialCompra": 969.5,
+    "oficialVenta": 1009.5,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": 16.89
+  },
+  {
+    "fecha": "2024-10-31",
+    "oficialCompra": 971.5,
+    "oficialVenta": 1011.5,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": 17.65
+  },
+  {
+    "fecha": "2024-11-01",
+    "oficialCompra": 973,
+    "oficialVenta": 1013,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": 17.47
+  },
+  {
+    "fecha": "2024-11-02",
+    "oficialCompra": 973,
+    "oficialVenta": 1013,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": 17.47
+  },
+  {
+    "fecha": "2024-11-03",
+    "oficialCompra": 973,
+    "oficialVenta": 1013,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": 17.47
+  },
+  {
+    "fecha": "2024-11-04",
+    "oficialCompra": 973,
+    "oficialVenta": 1013,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 15.5
+  },
+  {
+    "fecha": "2024-11-05",
+    "oficialCompra": 974,
+    "oficialVenta": 1014,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.93
+  },
+  {
+    "fecha": "2024-11-06",
+    "oficialCompra": 974,
+    "oficialVenta": 1014,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.93
+  },
+  {
+    "fecha": "2024-11-07",
+    "oficialCompra": 974.5,
+    "oficialVenta": 1014.5,
+    "blueCompra": 1100,
+    "blueVenta": 1120,
+    "brecha": 10.4
+  },
+  {
+    "fecha": "2024-11-08",
+    "oficialCompra": 976.5,
+    "oficialVenta": 1016.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.66
+  },
+  {
+    "fecha": "2024-11-09",
+    "oficialCompra": 976.5,
+    "oficialVenta": 1016.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.66
+  },
+  {
+    "fecha": "2024-11-10",
+    "oficialCompra": 976.5,
+    "oficialVenta": 1016.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.66
+  },
+  {
+    "fecha": "2024-11-11",
+    "oficialCompra": 977.5,
+    "oficialVenta": 1017.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.55
+  },
+  {
+    "fecha": "2024-11-12",
+    "oficialCompra": 978,
+    "oficialVenta": 1018,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11.49
+  },
+  {
+    "fecha": "2024-11-13",
+    "oficialCompra": 978.5,
+    "oficialVenta": 1018.5,
+    "blueCompra": 1120,
+    "blueVenta": 1140,
+    "brecha": 11.93
+  },
+  {
+    "fecha": "2024-11-14",
+    "oficialCompra": 979,
+    "oficialVenta": 1019,
+    "blueCompra": 1120,
+    "blueVenta": 1140,
+    "brecha": 11.87
+  },
+  {
+    "fecha": "2024-11-15",
+    "oficialCompra": 982,
+    "oficialVenta": 1022,
+    "blueCompra": 1120,
+    "blueVenta": 1140,
+    "brecha": 11.55
+  },
+  {
+    "fecha": "2024-11-16",
+    "oficialCompra": 982,
+    "oficialVenta": 1022,
+    "blueCompra": 1120,
+    "blueVenta": 1140,
+    "brecha": 11.55
+  },
+  {
+    "fecha": "2024-11-17",
+    "oficialCompra": 982,
+    "oficialVenta": 1022,
+    "blueCompra": 1120,
+    "blueVenta": 1140,
+    "brecha": 11.55
+  },
+  {
+    "fecha": "2024-11-18",
+    "oficialCompra": 982,
+    "oficialVenta": 1022,
+    "blueCompra": 1120,
+    "blueVenta": 1140,
+    "brecha": 11.55
+  },
+  {
+    "fecha": "2024-11-19",
+    "oficialCompra": 982.5,
+    "oficialVenta": 1022.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 11
+  },
+  {
+    "fecha": "2024-11-20",
+    "oficialCompra": 983,
+    "oficialVenta": 1023,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 10.95
+  },
+  {
+    "fecha": "2024-11-21",
+    "oficialCompra": 984.5,
+    "oficialVenta": 1024.5,
+    "blueCompra": 1110,
+    "blueVenta": 1130,
+    "brecha": 10.3
+  },
+  {
+    "fecha": "2024-11-22",
+    "oficialCompra": 986.5,
+    "oficialVenta": 1026.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 10.57
+  },
+  {
+    "fecha": "2024-11-23",
+    "oficialCompra": 986.5,
+    "oficialVenta": 1026.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 10.57
+  },
+  {
+    "fecha": "2024-11-24",
+    "oficialCompra": 986.5,
+    "oficialVenta": 1026.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 10.57
+  },
+  {
+    "fecha": "2024-11-25",
+    "oficialCompra": 987,
+    "oficialVenta": 1027,
+    "blueCompra": 1110,
+    "blueVenta": 1130,
+    "brecha": 10.03
+  },
+  {
+    "fecha": "2024-11-26",
+    "oficialCompra": 987.5,
+    "oficialVenta": 1027.5,
+    "blueCompra": 1115,
+    "blueVenta": 1135,
+    "brecha": 10.46
+  },
+  {
+    "fecha": "2024-11-27",
+    "oficialCompra": 988,
+    "oficialVenta": 1028,
+    "blueCompra": 1105,
+    "blueVenta": 1125,
+    "brecha": 9.44
+  },
+  {
+    "fecha": "2024-11-28",
+    "oficialCompra": 988.5,
+    "oficialVenta": 1028.5,
+    "blueCompra": 1100,
+    "blueVenta": 1120,
+    "brecha": 8.9
+  },
+  {
+    "fecha": "2024-11-29",
+    "oficialCompra": 991,
+    "oficialVenta": 1031,
+    "blueCompra": 1100,
+    "blueVenta": 1120,
+    "brecha": 8.63
+  },
+  {
+    "fecha": "2024-11-30",
+    "oficialCompra": 991,
+    "oficialVenta": 1031,
+    "blueCompra": 1100,
+    "blueVenta": 1120,
+    "brecha": 8.63
+  },
+  {
+    "fecha": "2024-12-01",
+    "oficialCompra": 991,
+    "oficialVenta": 1031,
+    "blueCompra": 1100,
+    "blueVenta": 1120,
+    "brecha": 8.63
+  },
+  {
+    "fecha": "2024-12-02",
+    "oficialCompra": 992,
+    "oficialVenta": 1032,
+    "blueCompra": 1080,
+    "blueVenta": 1100,
+    "brecha": 6.59
+  },
+  {
+    "fecha": "2024-12-03",
+    "oficialCompra": 992.5,
+    "oficialVenta": 1032.5,
+    "blueCompra": 1070,
+    "blueVenta": 1090,
+    "brecha": 5.57
+  },
+  {
+    "fecha": "2024-12-04",
+    "oficialCompra": 992.5,
+    "oficialVenta": 1032.5,
+    "blueCompra": 1060,
+    "blueVenta": 1080,
+    "brecha": 4.6
+  },
+  {
+    "fecha": "2024-12-05",
+    "oficialCompra": 993,
+    "oficialVenta": 1033,
+    "blueCompra": 1035,
+    "blueVenta": 1055,
+    "brecha": 2.13
+  },
+  {
+    "fecha": "2024-12-06",
+    "oficialCompra": 995,
+    "oficialVenta": 1035,
+    "blueCompra": 1030,
+    "blueVenta": 1050,
+    "brecha": 1.45
+  },
+  {
+    "fecha": "2024-12-07",
+    "oficialCompra": 995,
+    "oficialVenta": 1035,
+    "blueCompra": 1030,
+    "blueVenta": 1050,
+    "brecha": 1.45
+  },
+  {
+    "fecha": "2024-12-08",
+    "oficialCompra": 995,
+    "oficialVenta": 1035,
+    "blueCompra": 1030,
+    "blueVenta": 1050,
+    "brecha": 1.45
+  },
+  {
+    "fecha": "2024-12-09",
+    "oficialCompra": 996,
+    "oficialVenta": 1036,
+    "blueCompra": 1045,
+    "blueVenta": 1065,
+    "brecha": 2.8
+  },
+  {
+    "fecha": "2024-12-10",
+    "oficialCompra": 996.5,
+    "oficialVenta": 1036.5,
+    "blueCompra": 1050,
+    "blueVenta": 1070,
+    "brecha": 3.23
+  },
+  {
+    "fecha": "2024-12-11",
+    "oficialCompra": 997,
+    "oficialVenta": 1037,
+    "blueCompra": 1060,
+    "blueVenta": 1080,
+    "brecha": 4.15
+  },
+  {
+    "fecha": "2024-12-12",
+    "oficialCompra": 998.5,
+    "oficialVenta": 1038.5,
+    "blueCompra": 1075,
+    "blueVenta": 1095,
+    "brecha": 5.44
+  },
+  {
+    "fecha": "2024-12-13",
+    "oficialCompra": 1000,
+    "oficialVenta": 1040,
+    "blueCompra": 1085,
+    "blueVenta": 1105,
+    "brecha": 6.25
+  },
+  {
+    "fecha": "2024-12-14",
+    "oficialCompra": 1000,
+    "oficialVenta": 1040,
+    "blueCompra": 1085,
+    "blueVenta": 1105,
+    "brecha": 6.25
+  },
+  {
+    "fecha": "2024-12-15",
+    "oficialCompra": 1000,
+    "oficialVenta": 1040,
+    "blueCompra": 1085,
+    "blueVenta": 1105,
+    "brecha": 6.25
+  },
+  {
+    "fecha": "2024-12-16",
+    "oficialCompra": 1002,
+    "oficialVenta": 1042,
+    "blueCompra": 1105,
+    "blueVenta": 1125,
+    "brecha": 7.97
+  },
+  {
+    "fecha": "2024-12-17",
+    "oficialCompra": 1002.5,
+    "oficialVenta": 1042.5,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 11.75
+  },
+  {
+    "fecha": "2024-12-18",
+    "oficialCompra": 1002.5,
+    "oficialVenta": 1042.5,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 15.59
+  },
+  {
+    "fecha": "2024-12-19",
+    "oficialCompra": 1002.5,
+    "oficialVenta": 1042.5,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 12.71
+  },
+  {
+    "fecha": "2024-12-20",
+    "oficialCompra": 1004.5,
+    "oficialVenta": 1044.5,
+    "blueCompra": 1140,
+    "blueVenta": 1160,
+    "brecha": 11.06
+  },
+  {
+    "fecha": "2024-12-21",
+    "oficialCompra": 1004.5,
+    "oficialVenta": 1044.5,
+    "blueCompra": 1140,
+    "blueVenta": 1160,
+    "brecha": 11.06
+  },
+  {
+    "fecha": "2024-12-22",
+    "oficialCompra": 1004.5,
+    "oficialVenta": 1044.5,
+    "blueCompra": 1140,
+    "blueVenta": 1160,
+    "brecha": 11.06
+  },
+  {
+    "fecha": "2024-12-23",
+    "oficialCompra": 1008,
+    "oficialVenta": 1048,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 14.5
+  },
+  {
+    "fecha": "2024-12-24",
+    "oficialCompra": 1008,
+    "oficialVenta": 1048,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 14.5
+  },
+  {
+    "fecha": "2024-12-25",
+    "oficialCompra": 1008,
+    "oficialVenta": 1048,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 14.5
+  },
+  {
+    "fecha": "2024-12-26",
+    "oficialCompra": 1009,
+    "oficialVenta": 1049,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 15.35
+  },
+  {
+    "fecha": "2024-12-27",
+    "oficialCompra": 1011,
+    "oficialVenta": 1051,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 15.6
+  },
+  {
+    "fecha": "2024-12-28",
+    "oficialCompra": 1011,
+    "oficialVenta": 1051,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 15.6
+  },
+  {
+    "fecha": "2024-12-29",
+    "oficialCompra": 1011,
+    "oficialVenta": 1051,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 15.6
+  },
+  {
+    "fecha": "2024-12-30",
+    "oficialCompra": 1012.5,
+    "oficialVenta": 1052.5,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 16.86
+  },
+  {
+    "fecha": "2024-12-31",
+    "oficialCompra": 1012.5,
+    "oficialVenta": 1052.5,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 16.86
+  },
+  {
+    "fecha": "2025-01-01",
+    "oficialCompra": 1012.5,
+    "oficialVenta": 1052.5,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 16.86
+  },
+  {
+    "fecha": "2025-01-02",
+    "oficialCompra": 1012.5,
+    "oficialVenta": 1052.5,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 16.86
+  },
+  {
+    "fecha": "2025-01-03",
+    "oficialCompra": 1015,
+    "oficialVenta": 1055,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 14.22
+  },
+  {
+    "fecha": "2025-01-04",
+    "oficialCompra": 1015,
+    "oficialVenta": 1055,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 14.22
+  },
+  {
+    "fecha": "2025-01-05",
+    "oficialCompra": 1015,
+    "oficialVenta": 1055,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 14.22
+  },
+  {
+    "fecha": "2025-01-06",
+    "oficialCompra": 1015,
+    "oficialVenta": 1055,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 14.22
+  },
+  {
+    "fecha": "2025-01-07",
+    "oficialCompra": 1015.5,
+    "oficialVenta": 1055.5,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 15.11
+  },
+  {
+    "fecha": "2025-01-08",
+    "oficialCompra": 1016,
+    "oficialVenta": 1056,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 15.53
+  },
+  {
+    "fecha": "2025-01-09",
+    "oficialCompra": 1017,
+    "oficialVenta": 1057,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 15.42
+  },
+  {
+    "fecha": "2025-01-10",
+    "oficialCompra": 1019,
+    "oficialVenta": 1059,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 15.68
+  },
+  {
+    "fecha": "2025-01-11",
+    "oficialCompra": 1019,
+    "oficialVenta": 1059,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 15.68
+  },
+  {
+    "fecha": "2025-01-12",
+    "oficialCompra": 1019,
+    "oficialVenta": 1059,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 15.68
+  },
+  {
+    "fecha": "2025-01-13",
+    "oficialCompra": 1019.5,
+    "oficialVenta": 1059.5,
+    "blueCompra": 1230,
+    "blueVenta": 1250,
+    "brecha": 17.98
+  },
+  {
+    "fecha": "2025-01-14",
+    "oficialCompra": 1020.5,
+    "oficialVenta": 1060.5,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 16.93
+  },
+  {
+    "fecha": "2025-01-15",
+    "oficialCompra": 1021.5,
+    "oficialVenta": 1061.5,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 15.4
+  },
+  {
+    "fecha": "2025-01-16",
+    "oficialCompra": 1022,
+    "oficialVenta": 1062,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 16.29
+  },
+  {
+    "fecha": "2025-01-17",
+    "oficialCompra": 1023.5,
+    "oficialVenta": 1063.5,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 16.13
+  },
+  {
+    "fecha": "2025-01-18",
+    "oficialCompra": 1023.5,
+    "oficialVenta": 1063.5,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 16.13
+  },
+  {
+    "fecha": "2025-01-19",
+    "oficialCompra": 1023.5,
+    "oficialVenta": 1063.5,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 16.13
+  },
+  {
+    "fecha": "2025-01-20",
+    "oficialCompra": 1026,
+    "oficialVenta": 1066,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 16.32
+  },
+  {
+    "fecha": "2025-01-21",
+    "oficialCompra": 1026.5,
+    "oficialVenta": 1066.5,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 15.8
+  },
+  {
+    "fecha": "2025-01-22",
+    "oficialCompra": 1027.5,
+    "oficialVenta": 1067.5,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 16.16
+  },
+  {
+    "fecha": "2025-01-23",
+    "oficialCompra": 1028,
+    "oficialVenta": 1068,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 16.1
+  },
+  {
+    "fecha": "2025-01-24",
+    "oficialCompra": 1029,
+    "oficialVenta": 1069,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 14.59
+  },
+  {
+    "fecha": "2025-01-25",
+    "oficialCompra": 1029,
+    "oficialVenta": 1069,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 14.59
+  },
+  {
+    "fecha": "2025-01-26",
+    "oficialCompra": 1029,
+    "oficialVenta": 1069,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 14.59
+  },
+  {
+    "fecha": "2025-01-27",
+    "oficialCompra": 1030,
+    "oficialVenta": 1070,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 14.95
+  },
+  {
+    "fecha": "2025-01-28",
+    "oficialCompra": 1030.5,
+    "oficialVenta": 1070.5,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 14.9
+  },
+  {
+    "fecha": "2025-01-29",
+    "oficialCompra": 1031.5,
+    "oficialVenta": 1071.5,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.86
+  },
+  {
+    "fecha": "2025-01-30",
+    "oficialCompra": 1032,
+    "oficialVenta": 1072,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.81
+  },
+  {
+    "fecha": "2025-01-31",
+    "oficialCompra": 1033.5,
+    "oficialVenta": 1073.5,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.65
+  },
+  {
+    "fecha": "2025-02-01",
+    "oficialCompra": 1033.5,
+    "oficialVenta": 1073.5,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.65
+  },
+  {
+    "fecha": "2025-02-02",
+    "oficialCompra": 1033.5,
+    "oficialVenta": 1073.5,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.65
+  },
+  {
+    "fecha": "2025-02-03",
+    "oficialCompra": 1034.25,
+    "oficialVenta": 1074.25,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.57
+  },
+  {
+    "fecha": "2025-02-04",
+    "oficialCompra": 1034.5,
+    "oficialVenta": 1074.5,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 13.08
+  },
+  {
+    "fecha": "2025-02-05",
+    "oficialCompra": 1034.5,
+    "oficialVenta": 1074.5,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 13.08
+  },
+  {
+    "fecha": "2025-02-06",
+    "oficialCompra": 1034.75,
+    "oficialVenta": 1074.75,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 12.58
+  },
+  {
+    "fecha": "2025-02-07",
+    "oficialCompra": 1035.75,
+    "oficialVenta": 1075.75,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 12.01
+  },
+  {
+    "fecha": "2025-02-08",
+    "oficialCompra": 1035.75,
+    "oficialVenta": 1075.75,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 12.01
+  },
+  {
+    "fecha": "2025-02-09",
+    "oficialCompra": 1035.75,
+    "oficialVenta": 1075.75,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 12.01
+  },
+  {
+    "fecha": "2025-02-10",
+    "oficialCompra": 1036,
+    "oficialVenta": 1076,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 11.99
+  },
+  {
+    "fecha": "2025-02-11",
+    "oficialCompra": 1036,
+    "oficialVenta": 1076,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 12.92
+  },
+  {
+    "fecha": "2025-02-12",
+    "oficialCompra": 1036.25,
+    "oficialVenta": 1076.25,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.36
+  },
+  {
+    "fecha": "2025-02-13",
+    "oficialCompra": 1037.25,
+    "oficialVenta": 1077.25,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 13.72
+  },
+  {
+    "fecha": "2025-02-14",
+    "oficialCompra": 1038,
+    "oficialVenta": 1078,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.17
+  },
+  {
+    "fecha": "2025-02-15",
+    "oficialCompra": 1038,
+    "oficialVenta": 1078,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.17
+  },
+  {
+    "fecha": "2025-02-16",
+    "oficialCompra": 1038,
+    "oficialVenta": 1078,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 13.17
+  },
+  {
+    "fecha": "2025-02-17",
+    "oficialCompra": 1038.75,
+    "oficialVenta": 1078.75,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 14.48
+  },
+  {
+    "fecha": "2025-02-18",
+    "oficialCompra": 1039,
+    "oficialVenta": 1079,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 14.46
+  },
+  {
+    "fecha": "2025-02-19",
+    "oficialCompra": 1039,
+    "oficialVenta": 1079,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 13.53
+  },
+  {
+    "fecha": "2025-02-20",
+    "oficialCompra": 1039.25,
+    "oficialVenta": 1079.25,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 13.5
+  },
+  {
+    "fecha": "2025-02-21",
+    "oficialCompra": 1040.25,
+    "oficialVenta": 1080.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.86
+  },
+  {
+    "fecha": "2025-02-22",
+    "oficialCompra": 1040.25,
+    "oficialVenta": 1080.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.86
+  },
+  {
+    "fecha": "2025-02-23",
+    "oficialCompra": 1040.25,
+    "oficialVenta": 1080.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.86
+  },
+  {
+    "fecha": "2025-02-24",
+    "oficialCompra": 1040.5,
+    "oficialVenta": 1080.5,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 14.76
+  },
+  {
+    "fecha": "2025-02-25",
+    "oficialCompra": 1041,
+    "oficialVenta": 1081,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 14.71
+  },
+  {
+    "fecha": "2025-02-26",
+    "oficialCompra": 1041.25,
+    "oficialVenta": 1081.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.76
+  },
+  {
+    "fecha": "2025-02-27",
+    "oficialCompra": 1041.75,
+    "oficialVenta": 1081.75,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 13.24
+  },
+  {
+    "fecha": "2025-02-28",
+    "oficialCompra": 1044.25,
+    "oficialVenta": 1084.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.44
+  },
+  {
+    "fecha": "2025-03-01",
+    "oficialCompra": 1044.25,
+    "oficialVenta": 1084.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.44
+  },
+  {
+    "fecha": "2025-03-02",
+    "oficialCompra": 1044.25,
+    "oficialVenta": 1084.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.44
+  },
+  {
+    "fecha": "2025-03-03",
+    "oficialCompra": 1044.25,
+    "oficialVenta": 1084.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.44
+  },
+  {
+    "fecha": "2025-03-04",
+    "oficialCompra": 1044.25,
+    "oficialVenta": 1084.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.44
+  },
+  {
+    "fecha": "2025-03-05",
+    "oficialCompra": 1044.5,
+    "oficialVenta": 1084.5,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 12.96
+  },
+  {
+    "fecha": "2025-03-06",
+    "oficialCompra": 1044.5,
+    "oficialVenta": 1084.5,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 12.03
+  },
+  {
+    "fecha": "2025-03-07",
+    "oficialCompra": 1046,
+    "oficialVenta": 1086,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 11.88
+  },
+  {
+    "fecha": "2025-03-08",
+    "oficialCompra": 1046,
+    "oficialVenta": 1086,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 11.88
+  },
+  {
+    "fecha": "2025-03-09",
+    "oficialCompra": 1046,
+    "oficialVenta": 1086,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 11.88
+  },
+  {
+    "fecha": "2025-03-10",
+    "oficialCompra": 1046.25,
+    "oficialVenta": 1086.25,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 12.77
+  },
+  {
+    "fecha": "2025-03-11",
+    "oficialCompra": 1046.25,
+    "oficialVenta": 1086.25,
+    "blueCompra": 1200,
+    "blueVenta": 1220,
+    "brecha": 12.31
+  },
+  {
+    "fecha": "2025-03-12",
+    "oficialCompra": 1046.25,
+    "oficialVenta": 1086.25,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": 13.23
+  },
+  {
+    "fecha": "2025-03-13",
+    "oficialCompra": 1046.5,
+    "oficialVenta": 1086.5,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": 13.67
+  },
+  {
+    "fecha": "2025-03-14",
+    "oficialCompra": 1048,
+    "oficialVenta": 1088,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 13.97
+  },
+  {
+    "fecha": "2025-03-15",
+    "oficialCompra": 1048,
+    "oficialVenta": 1088,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 13.97
+  },
+  {
+    "fecha": "2025-03-16",
+    "oficialCompra": 1048,
+    "oficialVenta": 1088,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": 13.97
+  },
+  {
+    "fecha": "2025-03-17",
+    "oficialCompra": 1048.25,
+    "oficialVenta": 1088.25,
+    "blueCompra": 1235,
+    "blueVenta": 1255,
+    "brecha": 15.32
+  },
+  {
+    "fecha": "2025-03-18",
+    "oficialCompra": 1048.5,
+    "oficialVenta": 1088.5,
+    "blueCompra": 1265,
+    "blueVenta": 1285,
+    "brecha": 18.05
+  },
+  {
+    "fecha": "2025-03-19",
+    "oficialCompra": 1049.25,
+    "oficialVenta": 1089.25,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 17.51
+  },
+  {
+    "fecha": "2025-03-20",
+    "oficialCompra": 1049.5,
+    "oficialVenta": 1089.5,
+    "blueCompra": 1245,
+    "blueVenta": 1265,
+    "brecha": 16.11
+  },
+  {
+    "fecha": "2025-03-21",
+    "oficialCompra": 1051,
+    "oficialVenta": 1091,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 17.32
+  },
+  {
+    "fecha": "2025-03-22",
+    "oficialCompra": 1051,
+    "oficialVenta": 1091,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 17.32
+  },
+  {
+    "fecha": "2025-03-23",
+    "oficialCompra": 1051,
+    "oficialVenta": 1091,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 17.32
+  },
+  {
+    "fecha": "2025-03-24",
+    "oficialCompra": 1051,
+    "oficialVenta": 1091,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 17.32
+  },
+  {
+    "fecha": "2025-03-25",
+    "oficialCompra": 1051.25,
+    "oficialVenta": 1091.25,
+    "blueCompra": 1275,
+    "blueVenta": 1295,
+    "brecha": 18.67
+  },
+  {
+    "fecha": "2025-03-26",
+    "oficialCompra": 1051.5,
+    "oficialVenta": 1091.5,
+    "blueCompra": 1275,
+    "blueVenta": 1295,
+    "brecha": 18.64
+  },
+  {
+    "fecha": "2025-03-27",
+    "oficialCompra": 1051.75,
+    "oficialVenta": 1091.75,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 19.07
+  },
+  {
+    "fecha": "2025-03-28",
+    "oficialCompra": 1053,
+    "oficialVenta": 1093,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 18.94
+  },
+  {
+    "fecha": "2025-03-29",
+    "oficialCompra": 1053,
+    "oficialVenta": 1093,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 18.94
+  },
+  {
+    "fecha": "2025-03-30",
+    "oficialCompra": 1053,
+    "oficialVenta": 1093,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 18.94
+  },
+  {
+    "fecha": "2025-03-31",
+    "oficialCompra": 1053.5,
+    "oficialVenta": 1093.5,
+    "blueCompra": 1305,
+    "blueVenta": 1325,
+    "brecha": 21.17
+  },
+  {
+    "fecha": "2025-04-01",
+    "oficialCompra": 1054.25,
+    "oficialVenta": 1094.25,
+    "blueCompra": 1295,
+    "blueVenta": 1315,
+    "brecha": 20.17
+  },
+  {
+    "fecha": "2025-04-02",
+    "oficialCompra": 1054.25,
+    "oficialVenta": 1094.25,
+    "blueCompra": 1295,
+    "blueVenta": 1315,
+    "brecha": 20.17
+  },
+  {
+    "fecha": "2025-04-03",
+    "oficialCompra": 1054.5,
+    "oficialVenta": 1094.5,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 19.69
+  },
+  {
+    "fecha": "2025-04-04",
+    "oficialCompra": 1055.5,
+    "oficialVenta": 1095.5,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 19.58
+  },
+  {
+    "fecha": "2025-04-05",
+    "oficialCompra": 1055.5,
+    "oficialVenta": 1095.5,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 19.58
+  },
+  {
+    "fecha": "2025-04-06",
+    "oficialCompra": 1055.5,
+    "oficialVenta": 1095.5,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 19.58
+  },
+  {
+    "fecha": "2025-04-07",
+    "oficialCompra": 1055.75,
+    "oficialVenta": 1095.75,
+    "blueCompra": 1325,
+    "blueVenta": 1345,
+    "brecha": 22.75
+  },
+  {
+    "fecha": "2025-04-08",
+    "oficialCompra": 1056,
+    "oficialVenta": 1096,
+    "blueCompra": 1340,
+    "blueVenta": 1360,
+    "brecha": 24.09
+  },
+  {
+    "fecha": "2025-04-09",
+    "oficialCompra": 1036.5,
+    "oficialVenta": 1096.5,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": 23.58
+  },
+  {
+    "fecha": "2025-04-10",
+    "oficialCompra": 1036.75,
+    "oficialVenta": 1096.75,
+    "blueCompra": 1345,
+    "blueVenta": 1365,
+    "brecha": 24.46
+  },
+  {
+    "fecha": "2025-04-11",
+    "oficialCompra": 1037.5,
+    "oficialVenta": 1097.5,
+    "blueCompra": 1355,
+    "blueVenta": 1375,
+    "brecha": 25.28
+  },
+  {
+    "fecha": "2025-04-12",
+    "oficialCompra": 1037.5,
+    "oficialVenta": 1097.5,
+    "blueCompra": 1355,
+    "blueVenta": 1375,
+    "brecha": 25.28
+  },
+  {
+    "fecha": "2025-04-13",
+    "oficialCompra": 1037.5,
+    "oficialVenta": 1097.5,
+    "blueCompra": 1355,
+    "blueVenta": 1375,
+    "brecha": 25.28
+  },
+  {
+    "fecha": "2025-04-14",
+    "oficialCompra": 1180,
+    "oficialVenta": 1230,
+    "blueCompra": 1255,
+    "blueVenta": 1285,
+    "brecha": 4.47
+  },
+  {
+    "fecha": "2025-04-15",
+    "oficialCompra": 1180,
+    "oficialVenta": 1230,
+    "blueCompra": 1255,
+    "blueVenta": 1285,
+    "brecha": 4.47
+  },
+  {
+    "fecha": "2025-04-16",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1220,
+    "blueVenta": 1250,
+    "brecha": 7.76
+  },
+  {
+    "fecha": "2025-04-17",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1220,
+    "blueVenta": 1250,
+    "brecha": 7.76
+  },
+  {
+    "fecha": "2025-04-18",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1220,
+    "blueVenta": 1250,
+    "brecha": 7.76
+  },
+  {
+    "fecha": "2025-04-19",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1220,
+    "blueVenta": 1250,
+    "brecha": 7.76
+  },
+  {
+    "fecha": "2025-04-20",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1220,
+    "blueVenta": 1250,
+    "brecha": 7.76
+  },
+  {
+    "fecha": "2025-04-21",
+    "oficialCompra": 1060,
+    "oficialVenta": 1110,
+    "blueCompra": 1130,
+    "blueVenta": 1150,
+    "brecha": 3.6
+  },
+  {
+    "fecha": "2025-04-22",
+    "oficialCompra": 1070,
+    "oficialVenta": 1120,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": 5.8
+  },
+  {
+    "fecha": "2025-04-23",
+    "oficialCompra": 1120,
+    "oficialVenta": 1170,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 3.42
+  },
+  {
+    "fecha": "2025-04-24",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": 2.94
+  },
+  {
+    "fecha": "2025-04-25",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 1.68
+  },
+  {
+    "fecha": "2025-04-26",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 1.68
+  },
+  {
+    "fecha": "2025-04-27",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 1.68
+  },
+  {
+    "fecha": "2025-04-28",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": 1.26
+  },
+  {
+    "fecha": "2025-04-29",
+    "oficialCompra": 1130,
+    "oficialVenta": 1180,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 1.69
+  },
+  {
+    "fecha": "2025-04-30",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": -0.42
+  },
+  {
+    "fecha": "2025-05-01",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": -0.42
+  },
+  {
+    "fecha": "2025-05-02",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": -0.42
+  },
+  {
+    "fecha": "2025-05-03",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": -0.42
+  },
+  {
+    "fecha": "2025-05-04",
+    "oficialCompra": 1140,
+    "oficialVenta": 1190,
+    "blueCompra": 1165,
+    "blueVenta": 1185,
+    "brecha": -0.42
+  },
+  {
+    "fecha": "2025-05-05",
+    "oficialCompra": 1160,
+    "oficialVenta": 1210,
+    "blueCompra": 1185,
+    "blueVenta": 1205,
+    "brecha": -0.41
+  },
+  {
+    "fecha": "2025-05-06",
+    "oficialCompra": 1165,
+    "oficialVenta": 1215,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -2.06
+  },
+  {
+    "fecha": "2025-05-07",
+    "oficialCompra": 1090,
+    "oficialVenta": 1140,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 2.63
+  },
+  {
+    "fecha": "2025-05-08",
+    "oficialCompra": 1080,
+    "oficialVenta": 1130,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 3.1
+  },
+  {
+    "fecha": "2025-05-09",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 2.17
+  },
+  {
+    "fecha": "2025-05-10",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 2.17
+  },
+  {
+    "fecha": "2025-05-11",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 2.17
+  },
+  {
+    "fecha": "2025-05-12",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 1.74
+  },
+  {
+    "fecha": "2025-05-13",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1140,
+    "blueVenta": 1160,
+    "brecha": 0.87
+  },
+  {
+    "fecha": "2025-05-14",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2025-05-15",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2025-05-16",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 0.43
+  },
+  {
+    "fecha": "2025-05-17",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 0.43
+  },
+  {
+    "fecha": "2025-05-18",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 0.43
+  },
+  {
+    "fecha": "2025-05-19",
+    "oficialCompra": 1105,
+    "oficialVenta": 1155,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 0.87
+  },
+  {
+    "fecha": "2025-05-20",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 1.29
+  },
+  {
+    "fecha": "2025-05-21",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": 1.29
+  },
+  {
+    "fecha": "2025-05-22",
+    "oficialCompra": 1105,
+    "oficialVenta": 1155,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": 0.87
+  },
+  {
+    "fecha": "2025-05-23",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 1.74
+  },
+  {
+    "fecha": "2025-05-24",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 1.74
+  },
+  {
+    "fecha": "2025-05-25",
+    "oficialCompra": 1100,
+    "oficialVenta": 1150,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 1.74
+  },
+  {
+    "fecha": "2025-05-26",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": 0.86
+  },
+  {
+    "fecha": "2025-05-27",
+    "oficialCompra": 1120,
+    "oficialVenta": 1170,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": -0.43
+  },
+  {
+    "fecha": "2025-05-28",
+    "oficialCompra": 1125,
+    "oficialVenta": 1175,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": -0.43
+  },
+  {
+    "fecha": "2025-05-29",
+    "oficialCompra": 1145,
+    "oficialVenta": 1195,
+    "blueCompra": 1150,
+    "blueVenta": 1170,
+    "brecha": -2.09
+  },
+  {
+    "fecha": "2025-05-30",
+    "oficialCompra": 1145,
+    "oficialVenta": 1195,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": -1.26
+  },
+  {
+    "fecha": "2025-05-31",
+    "oficialCompra": 1145,
+    "oficialVenta": 1195,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": -1.26
+  },
+  {
+    "fecha": "2025-06-01",
+    "oficialCompra": 1145,
+    "oficialVenta": 1195,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": -1.26
+  },
+  {
+    "fecha": "2025-06-02",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": -2.92
+  },
+  {
+    "fecha": "2025-06-03",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1140,
+    "blueVenta": 1160,
+    "brecha": -3.33
+  },
+  {
+    "fecha": "2025-06-04",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1160,
+    "blueVenta": 1180,
+    "brecha": -1.67
+  },
+  {
+    "fecha": "2025-06-05",
+    "oficialCompra": 1155,
+    "oficialVenta": 1205,
+    "blueCompra": 1155,
+    "blueVenta": 1175,
+    "brecha": -2.49
+  },
+  {
+    "fecha": "2025-06-06",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": -2.92
+  },
+  {
+    "fecha": "2025-06-07",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": -2.92
+  },
+  {
+    "fecha": "2025-06-08",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1145,
+    "blueVenta": 1165,
+    "brecha": -2.92
+  },
+  {
+    "fecha": "2025-06-09",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1175,
+    "blueVenta": 1195,
+    "brecha": -0.42
+  },
+  {
+    "fecha": "2025-06-10",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-11",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-12",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-13",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-14",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-15",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-16",
+    "oficialCompra": 1150,
+    "oficialVenta": 1200,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": -0.83
+  },
+  {
+    "fecha": "2025-06-17",
+    "oficialCompra": 1135,
+    "oficialVenta": 1185,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 1.27
+  },
+  {
+    "fecha": "2025-06-18",
+    "oficialCompra": 1110,
+    "oficialVenta": 1160,
+    "blueCompra": 1170,
+    "blueVenta": 1190,
+    "brecha": 2.59
+  },
+  {
+    "fecha": "2025-06-19",
+    "oficialCompra": 1130,
+    "oficialVenta": 1180,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 1.69
+  },
+  {
+    "fecha": "2025-06-20",
+    "oficialCompra": 1130,
+    "oficialVenta": 1180,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 1.69
+  },
+  {
+    "fecha": "2025-06-21",
+    "oficialCompra": 1130,
+    "oficialVenta": 1180,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 1.69
+  },
+  {
+    "fecha": "2025-06-22",
+    "oficialCompra": 1130,
+    "oficialVenta": 1180,
+    "blueCompra": 1180,
+    "blueVenta": 1200,
+    "brecha": 1.69
+  },
+  {
+    "fecha": "2025-06-23",
+    "oficialCompra": 1135,
+    "oficialVenta": 1185,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 2.11
+  },
+  {
+    "fecha": "2025-06-24",
+    "oficialCompra": 1145,
+    "oficialVenta": 1195,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 1.67
+  },
+  {
+    "fecha": "2025-06-25",
+    "oficialCompra": 1155,
+    "oficialVenta": 1205,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 0.41
+  },
+  {
+    "fecha": "2025-06-26",
+    "oficialCompra": 1155,
+    "oficialVenta": 1205,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 0.41
+  },
+  {
+    "fecha": "2025-06-27",
+    "oficialCompra": 1155,
+    "oficialVenta": 1205,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 0.41
+  },
+  {
+    "fecha": "2025-06-28",
+    "oficialCompra": 1155,
+    "oficialVenta": 1205,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 0.41
+  },
+  {
+    "fecha": "2025-06-29",
+    "oficialCompra": 1155,
+    "oficialVenta": 1205,
+    "blueCompra": 1190,
+    "blueVenta": 1210,
+    "brecha": 0.41
+  },
+  {
+    "fecha": "2025-06-30",
+    "oficialCompra": 1165,
+    "oficialVenta": 1215,
+    "blueCompra": 1195,
+    "blueVenta": 1215,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-07-01",
+    "oficialCompra": 1185,
+    "oficialVenta": 1235,
+    "blueCompra": 1205,
+    "blueVenta": 1225,
+    "brecha": -0.81
+  },
+  {
+    "fecha": "2025-07-02",
+    "oficialCompra": 1195,
+    "oficialVenta": 1245,
+    "blueCompra": 1220,
+    "blueVenta": 1240,
+    "brecha": -0.4
+  },
+  {
+    "fecha": "2025-07-03",
+    "oficialCompra": 1195,
+    "oficialVenta": 1245,
+    "blueCompra": 1215,
+    "blueVenta": 1235,
+    "brecha": -0.8
+  },
+  {
+    "fecha": "2025-07-04",
+    "oficialCompra": 1210,
+    "oficialVenta": 1260,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": -2.38
+  },
+  {
+    "fecha": "2025-07-05",
+    "oficialCompra": 1210,
+    "oficialVenta": 1260,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": -2.38
+  },
+  {
+    "fecha": "2025-07-06",
+    "oficialCompra": 1210,
+    "oficialVenta": 1260,
+    "blueCompra": 1210,
+    "blueVenta": 1230,
+    "brecha": -2.38
+  },
+  {
+    "fecha": "2025-07-07",
+    "oficialCompra": 1230,
+    "oficialVenta": 1280,
+    "blueCompra": 1250,
+    "blueVenta": 1270,
+    "brecha": -0.78
+  },
+  {
+    "fecha": "2025-07-08",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 0.39
+  },
+  {
+    "fecha": "2025-07-09",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1260,
+    "blueVenta": 1280,
+    "brecha": 0.39
+  },
+  {
+    "fecha": "2025-07-10",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1275,
+    "blueVenta": 1295,
+    "brecha": 1.57
+  },
+  {
+    "fecha": "2025-07-11",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 1.96
+  },
+  {
+    "fecha": "2025-07-12",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 1.96
+  },
+  {
+    "fecha": "2025-07-13",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1280,
+    "blueVenta": 1300,
+    "brecha": 1.96
+  },
+  {
+    "fecha": "2025-07-14",
+    "oficialCompra": 1245,
+    "oficialVenta": 1295,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 3.47
+  },
+  {
+    "fecha": "2025-07-15",
+    "oficialCompra": 1230,
+    "oficialVenta": 1280,
+    "blueCompra": 1310,
+    "blueVenta": 1330,
+    "brecha": 3.91
+  },
+  {
+    "fecha": "2025-07-16",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1285,
+    "blueVenta": 1295,
+    "brecha": 1.57
+  },
+  {
+    "fecha": "2025-07-17",
+    "oficialCompra": 1240,
+    "oficialVenta": 1290,
+    "blueCompra": 1275,
+    "blueVenta": 1295,
+    "brecha": 0.39
+  },
+  {
+    "fecha": "2025-07-18",
+    "oficialCompra": 1250,
+    "oficialVenta": 1300,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 0.38
+  },
+  {
+    "fecha": "2025-07-19",
+    "oficialCompra": 1250,
+    "oficialVenta": 1300,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 0.38
+  },
+  {
+    "fecha": "2025-07-20",
+    "oficialCompra": 1250,
+    "oficialVenta": 1300,
+    "blueCompra": 1285,
+    "blueVenta": 1305,
+    "brecha": 0.38
+  },
+  {
+    "fecha": "2025-07-21",
+    "oficialCompra": 1250,
+    "oficialVenta": 1300,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 1.54
+  },
+  {
+    "fecha": "2025-07-22",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 2.75
+  },
+  {
+    "fecha": "2025-07-23",
+    "oficialCompra": 1225,
+    "oficialVenta": 1275,
+    "blueCompra": 1290,
+    "blueVenta": 1310,
+    "brecha": 2.75
+  },
+  {
+    "fecha": "2025-07-24",
+    "oficialCompra": 1235,
+    "oficialVenta": 1285,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 2.72
+  },
+  {
+    "fecha": "2025-07-25",
+    "oficialCompra": 1245,
+    "oficialVenta": 1295,
+    "blueCompra": 1295,
+    "blueVenta": 1315,
+    "brecha": 1.54
+  },
+  {
+    "fecha": "2025-07-26",
+    "oficialCompra": 1245,
+    "oficialVenta": 1295,
+    "blueCompra": 1295,
+    "blueVenta": 1315,
+    "brecha": 1.54
+  },
+  {
+    "fecha": "2025-07-27",
+    "oficialCompra": 1245,
+    "oficialVenta": 1295,
+    "blueCompra": 1295,
+    "blueVenta": 1315,
+    "brecha": 1.54
+  },
+  {
+    "fecha": "2025-07-28",
+    "oficialCompra": 1255,
+    "oficialVenta": 1305,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 1.15
+  },
+  {
+    "fecha": "2025-07-29",
+    "oficialCompra": 1250,
+    "oficialVenta": 1300,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 1.54
+  },
+  {
+    "fecha": "2025-07-30",
+    "oficialCompra": 1275,
+    "oficialVenta": 1325,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": -0.38
+  },
+  {
+    "fecha": "2025-07-31",
+    "oficialCompra": 1330,
+    "oficialVenta": 1380,
+    "blueCompra": 1315,
+    "blueVenta": 1335,
+    "brecha": -3.26
+  },
+  {
+    "fecha": "2025-08-01",
+    "oficialCompra": 1325,
+    "oficialVenta": 1375,
+    "blueCompra": 1315,
+    "blueVenta": 1335,
+    "brecha": -2.91
+  },
+  {
+    "fecha": "2025-08-02",
+    "oficialCompra": 1325,
+    "oficialVenta": 1375,
+    "blueCompra": 1315,
+    "blueVenta": 1335,
+    "brecha": -2.91
+  },
+  {
+    "fecha": "2025-08-03",
+    "oficialCompra": 1325,
+    "oficialVenta": 1375,
+    "blueCompra": 1315,
+    "blueVenta": 1335,
+    "brecha": -2.91
+  },
+  {
+    "fecha": "2025-08-04",
+    "oficialCompra": 1320,
+    "oficialVenta": 1370,
+    "blueCompra": 1310,
+    "blueVenta": 1330,
+    "brecha": -2.92
+  },
+  {
+    "fecha": "2025-08-05",
+    "oficialCompra": 1300,
+    "oficialVenta": 1350,
+    "blueCompra": 1305,
+    "blueVenta": 1325,
+    "brecha": -1.85
+  },
+  {
+    "fecha": "2025-08-06",
+    "oficialCompra": 1295,
+    "oficialVenta": 1345,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": -1.86
+  },
+  {
+    "fecha": "2025-08-07",
+    "oficialCompra": 1290,
+    "oficialVenta": 1340,
+    "blueCompra": 1305,
+    "blueVenta": 1325,
+    "brecha": -1.12
+  },
+  {
+    "fecha": "2025-08-08",
+    "oficialCompra": 1285,
+    "oficialVenta": 1335,
+    "blueCompra": 1305,
+    "blueVenta": 1325,
+    "brecha": -0.75
+  },
+  {
+    "fecha": "2025-08-09",
+    "oficialCompra": 1285,
+    "oficialVenta": 1335,
+    "blueCompra": 1305,
+    "blueVenta": 1325,
+    "brecha": -0.75
+  },
+  {
+    "fecha": "2025-08-10",
+    "oficialCompra": 1285,
+    "oficialVenta": 1335,
+    "blueCompra": 1305,
+    "blueVenta": 1325,
+    "brecha": -0.75
+  },
+  {
+    "fecha": "2025-08-11",
+    "oficialCompra": 1295,
+    "oficialVenta": 1335,
+    "blueCompra": 1315,
+    "blueVenta": 1335,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-08-12",
+    "oficialCompra": 1290,
+    "oficialVenta": 1330,
+    "blueCompra": 1310,
+    "blueVenta": 1330,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-08-13",
+    "oficialCompra": 1285,
+    "oficialVenta": 1325,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 1.13
+  },
+  {
+    "fecha": "2025-08-14",
+    "oficialCompra": 1270,
+    "oficialVenta": 1310,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 0.76
+  },
+  {
+    "fecha": "2025-08-15",
+    "oficialCompra": 1270,
+    "oficialVenta": 1310,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 0.76
+  },
+  {
+    "fecha": "2025-08-16",
+    "oficialCompra": 1270,
+    "oficialVenta": 1310,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 0.76
+  },
+  {
+    "fecha": "2025-08-17",
+    "oficialCompra": 1270,
+    "oficialVenta": 1310,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": 0.76
+  },
+  {
+    "fecha": "2025-08-18",
+    "oficialCompra": 1275,
+    "oficialVenta": 1315,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 1.9
+  },
+  {
+    "fecha": "2025-08-19",
+    "oficialCompra": 1270,
+    "oficialVenta": 1310,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 2.29
+  },
+  {
+    "fecha": "2025-08-20",
+    "oficialCompra": 1275,
+    "oficialVenta": 1315,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 1.9
+  },
+  {
+    "fecha": "2025-08-21",
+    "oficialCompra": 1285,
+    "oficialVenta": 1325,
+    "blueCompra": 1320,
+    "blueVenta": 1340,
+    "brecha": 1.13
+  },
+  {
+    "fecha": "2025-08-22",
+    "oficialCompra": 1295,
+    "oficialVenta": 1335,
+    "blueCompra": 1325,
+    "blueVenta": 1345,
+    "brecha": 0.75
+  },
+  {
+    "fecha": "2025-08-23",
+    "oficialCompra": 1295,
+    "oficialVenta": 1335,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": -1.12
+  },
+  {
+    "fecha": "2025-08-24",
+    "oficialCompra": 1295,
+    "oficialVenta": 1335,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": -1.12
+  },
+  {
+    "fecha": "2025-08-25",
+    "oficialCompra": 1330,
+    "oficialVenta": 1370,
+    "blueCompra": 1345,
+    "blueVenta": 1365,
+    "brecha": -0.36
+  },
+  {
+    "fecha": "2025-08-26",
+    "oficialCompra": 1330,
+    "oficialVenta": 1370,
+    "blueCompra": 1340,
+    "blueVenta": 1360,
+    "brecha": -0.73
+  },
+  {
+    "fecha": "2025-08-27",
+    "oficialCompra": 1320,
+    "oficialVenta": 1360,
+    "blueCompra": 1335,
+    "blueVenta": 1355,
+    "brecha": -0.37
+  },
+  {
+    "fecha": "2025-08-28",
+    "oficialCompra": 1305,
+    "oficialVenta": 1345,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": 0.37
+  },
+  {
+    "fecha": "2025-08-29",
+    "oficialCompra": 1320,
+    "oficialVenta": 1360,
+    "blueCompra": 1325,
+    "blueVenta": 1345,
+    "brecha": -1.1
+  },
+  {
+    "fecha": "2025-08-30",
+    "oficialCompra": 1320,
+    "oficialVenta": 1360,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": -2.94
+  },
+  {
+    "fecha": "2025-08-31",
+    "oficialCompra": 1320,
+    "oficialVenta": 1360,
+    "blueCompra": 1300,
+    "blueVenta": 1320,
+    "brecha": -2.94
+  },
+  {
+    "fecha": "2025-09-01",
+    "oficialCompra": 1345,
+    "oficialVenta": 1385,
+    "blueCompra": 1350,
+    "blueVenta": 1370,
+    "brecha": -1.08
+  },
+  {
+    "fecha": "2025-09-02",
+    "oficialCompra": 1335,
+    "oficialVenta": 1375,
+    "blueCompra": 1340,
+    "blueVenta": 1360,
+    "brecha": -1.09
+  },
+  {
+    "fecha": "2025-09-03",
+    "oficialCompra": 1335,
+    "oficialVenta": 1375,
+    "blueCompra": 1330,
+    "blueVenta": 1350,
+    "brecha": -1.82
+  },
+  {
+    "fecha": "2025-09-04",
+    "oficialCompra": 1335,
+    "oficialVenta": 1375,
+    "blueCompra": 1345,
+    "blueVenta": 1365,
+    "brecha": -0.73
+  },
+  {
+    "fecha": "2025-09-05",
+    "oficialCompra": 1340,
+    "oficialVenta": 1380,
+    "blueCompra": 1350,
+    "blueVenta": 1370,
+    "brecha": -0.72
+  },
+  {
+    "fecha": "2025-09-06",
+    "oficialCompra": 1340,
+    "oficialVenta": 1380,
+    "blueCompra": 1350,
+    "blueVenta": 1370,
+    "brecha": -0.72
+  },
+  {
+    "fecha": "2025-09-07",
+    "oficialCompra": 1340,
+    "oficialVenta": 1380,
+    "blueCompra": 1350,
+    "blueVenta": 1370,
+    "brecha": -0.72
+  },
+  {
+    "fecha": "2025-09-08",
+    "oficialCompra": 1365,
+    "oficialVenta": 1425,
+    "blueCompra": 1355,
+    "blueVenta": 1385,
+    "brecha": -2.81
+  },
+  {
+    "fecha": "2025-09-09",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1365,
+    "blueVenta": 1385,
+    "brecha": -2.81
+  },
+  {
+    "fecha": "2025-09-10",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1375,
+    "blueVenta": 1395,
+    "brecha": -2.79
+  },
+  {
+    "fecha": "2025-09-11",
+    "oficialCompra": 1395,
+    "oficialVenta": 1445,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": -2.42
+  },
+  {
+    "fecha": "2025-09-12",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -2.73
+  },
+  {
+    "fecha": "2025-09-13",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -2.73
+  },
+  {
+    "fecha": "2025-09-14",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -2.73
+  },
+  {
+    "fecha": "2025-09-15",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": -1.36
+  },
+  {
+    "fecha": "2025-09-16",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": -1.69
+  },
+  {
+    "fecha": "2025-09-17",
+    "oficialCompra": 1435,
+    "oficialVenta": 1485,
+    "blueCompra": 1470,
+    "blueVenta": 1490,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2025-09-18",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 1
+  },
+  {
+    "fecha": "2025-09-19",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1500,
+    "blueVenta": 1520,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2025-09-20",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1500,
+    "blueVenta": 1520,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2025-09-21",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1500,
+    "blueVenta": 1520,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2025-09-22",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 3.15
+  },
+  {
+    "fecha": "2025-09-23",
+    "oficialCompra": 1335,
+    "oficialVenta": 1385,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 1.81
+  },
+  {
+    "fecha": "2025-09-24",
+    "oficialCompra": 1310,
+    "oficialVenta": 1360,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": 3.31
+  },
+  {
+    "fecha": "2025-09-25",
+    "oficialCompra": 1305,
+    "oficialVenta": 1355,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 4.06
+  },
+  {
+    "fecha": "2025-09-26",
+    "oficialCompra": 1300,
+    "oficialVenta": 1350,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 6.67
+  },
+  {
+    "fecha": "2025-09-27",
+    "oficialCompra": 1300,
+    "oficialVenta": 1350,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 6.67
+  },
+  {
+    "fecha": "2025-09-28",
+    "oficialCompra": 1300,
+    "oficialVenta": 1350,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 6.67
+  },
+  {
+    "fecha": "2025-09-29",
+    "oficialCompra": 1330,
+    "oficialVenta": 1380,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 3.62
+  },
+  {
+    "fecha": "2025-09-30",
+    "oficialCompra": 1350,
+    "oficialVenta": 1400,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 3.21
+  },
+  {
+    "fecha": "2025-10-01",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0.69
+  },
+  {
+    "fecha": "2025-10-02",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-10-03",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -0.69
+  },
+  {
+    "fecha": "2025-10-04",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -0.69
+  },
+  {
+    "fecha": "2025-10-05",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -0.69
+  },
+  {
+    "fecha": "2025-10-06",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": -0.34
+  },
+  {
+    "fecha": "2025-10-07",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2025-10-08",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 1.37
+  },
+  {
+    "fecha": "2025-10-09",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 1.72
+  },
+  {
+    "fecha": "2025-10-10",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 1.72
+  },
+  {
+    "fecha": "2025-10-11",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 1.72
+  },
+  {
+    "fecha": "2025-10-12",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 1.72
+  },
+  {
+    "fecha": "2025-10-13",
+    "oficialCompra": 1325,
+    "oficialVenta": 1375,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": 2.18
+  },
+  {
+    "fecha": "2025-10-14",
+    "oficialCompra": 1335,
+    "oficialVenta": 1385,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 2.53
+  },
+  {
+    "fecha": "2025-10-15",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": 3.2
+  },
+  {
+    "fecha": "2025-10-16",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1445,
+    "blueVenta": 1465,
+    "brecha": 2.45
+  },
+  {
+    "fecha": "2025-10-17",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2025-10-18",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2025-10-19",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2025-10-20",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 0.67
+  },
+  {
+    "fecha": "2025-10-21",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 1.98
+  },
+  {
+    "fecha": "2025-10-22",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 2.31
+  },
+  {
+    "fecha": "2025-10-23",
+    "oficialCompra": 1455,
+    "oficialVenta": 1505,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 1.33
+  },
+  {
+    "fecha": "2025-10-24",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.66
+  },
+  {
+    "fecha": "2025-10-25",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.66
+  },
+  {
+    "fecha": "2025-10-26",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.66
+  },
+  {
+    "fecha": "2025-10-27",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1445,
+    "blueVenta": 1465,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2025-10-28",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1450,
+    "blueVenta": 1470,
+    "brecha": -1.67
+  },
+  {
+    "fecha": "2025-10-29",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-10-30",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": -0.68
+  },
+  {
+    "fecha": "2025-10-31",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -2.03
+  },
+  {
+    "fecha": "2025-11-01",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -2.03
+  },
+  {
+    "fecha": "2025-11-02",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -2.03
+  },
+  {
+    "fecha": "2025-11-03",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -3.67
+  },
+  {
+    "fecha": "2025-11-04",
+    "oficialCompra": 1435,
+    "oficialVenta": 1485,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": -2.02
+  },
+  {
+    "fecha": "2025-11-05",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -2.37
+  },
+  {
+    "fecha": "2025-11-06",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -2.71
+  },
+  {
+    "fecha": "2025-11-07",
+    "oficialCompra": 1395,
+    "oficialVenta": 1445,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -2.08
+  },
+  {
+    "fecha": "2025-11-08",
+    "oficialCompra": 1395,
+    "oficialVenta": 1445,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -2.08
+  },
+  {
+    "fecha": "2025-11-09",
+    "oficialCompra": 1395,
+    "oficialVenta": 1445,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -2.08
+  },
+  {
+    "fecha": "2025-11-10",
+    "oficialCompra": 1395,
+    "oficialVenta": 1445,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -1.38
+  },
+  {
+    "fecha": "2025-11-11",
+    "oficialCompra": 1390,
+    "oficialVenta": 1440,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-11-12",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-11-13",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2025-11-14",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2025-11-15",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2025-11-16",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2025-11-17",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2025-11-18",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2025-11-19",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0
+  },
+  {
+    "fecha": "2025-11-20",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -1.72
+  },
+  {
+    "fecha": "2025-11-21",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -1.72
+  },
+  {
+    "fecha": "2025-11-22",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -1.72
+  },
+  {
+    "fecha": "2025-11-23",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -1.72
+  },
+  {
+    "fecha": "2025-11-24",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -1.72
+  },
+  {
+    "fecha": "2025-11-25",
+    "oficialCompra": 1420,
+    "oficialVenta": 1470,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": -0.68
+  },
+  {
+    "fecha": "2025-11-26",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": -1.69
+  },
+  {
+    "fecha": "2025-11-27",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -2.37
+  },
+  {
+    "fecha": "2025-11-28",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -2.71
+  },
+  {
+    "fecha": "2025-11-29",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -2.71
+  },
+  {
+    "fecha": "2025-11-30",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -2.71
+  },
+  {
+    "fecha": "2025-12-01",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -2.03
+  },
+  {
+    "fecha": "2025-12-02",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -2.36
+  },
+  {
+    "fecha": "2025-12-03",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -2.7
+  },
+  {
+    "fecha": "2025-12-04",
+    "oficialCompra": 1420,
+    "oficialVenta": 1470,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": -2.72
+  },
+  {
+    "fecha": "2025-12-05",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2025-12-06",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2025-12-07",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2025-12-08",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2025-12-09",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2025-12-10",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": -0.68
+  },
+  {
+    "fecha": "2025-12-11",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": -0.68
+  },
+  {
+    "fecha": "2025-12-12",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2025-12-13",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2025-12-14",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2025-12-15",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1460,
+    "blueVenta": 1480,
+    "brecha": 1.02
+  },
+  {
+    "fecha": "2025-12-16",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 1.35
+  },
+  {
+    "fecha": "2025-12-17",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 1.69
+  },
+  {
+    "fecha": "2025-12-18",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1470,
+    "blueVenta": 1490,
+    "brecha": 1.02
+  },
+  {
+    "fecha": "2025-12-19",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2025-12-20",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2025-12-21",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2025-12-22",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 2.03
+  },
+  {
+    "fecha": "2025-12-23",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 2.03
+  },
+  {
+    "fecha": "2025-12-24",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 2.03
+  },
+  {
+    "fecha": "2025-12-25",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 2.03
+  },
+  {
+    "fecha": "2025-12-26",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.73
+  },
+  {
+    "fecha": "2025-12-27",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.73
+  },
+  {
+    "fecha": "2025-12-28",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.73
+  },
+  {
+    "fecha": "2025-12-29",
+    "oficialCompra": 1425,
+    "oficialVenta": 1475,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.73
+  },
+  {
+    "fecha": "2025-12-30",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.38
+  },
+  {
+    "fecha": "2025-12-31",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.38
+  },
+  {
+    "fecha": "2026-01-01",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 3.38
+  },
+  {
+    "fecha": "2026-01-02",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2.34
+  },
+  {
+    "fecha": "2026-01-03",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2.34
+  },
+  {
+    "fecha": "2026-01-04",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2.34
+  },
+  {
+    "fecha": "2026-01-05",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 1.34
+  },
+  {
+    "fecha": "2026-01-06",
+    "oficialCompra": 1440,
+    "oficialVenta": 1490,
+    "blueCompra": 1500,
+    "blueVenta": 1520,
+    "brecha": 2.01
+  },
+  {
+    "fecha": "2026-01-07",
+    "oficialCompra": 1435,
+    "oficialVenta": 1485,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 2.02
+  },
+  {
+    "fecha": "2026-01-08",
+    "oficialCompra": 1435,
+    "oficialVenta": 1485,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 1.68
+  },
+  {
+    "fecha": "2026-01-09",
+    "oficialCompra": 1440,
+    "oficialVenta": 1490,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 1.01
+  },
+  {
+    "fecha": "2026-01-10",
+    "oficialCompra": 1440,
+    "oficialVenta": 1490,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 1.01
+  },
+  {
+    "fecha": "2026-01-11",
+    "oficialCompra": 1440,
+    "oficialVenta": 1490,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 1.01
+  },
+  {
+    "fecha": "2026-01-12",
+    "oficialCompra": 1440,
+    "oficialVenta": 1490,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 1.01
+  },
+  {
+    "fecha": "2026-01-13",
+    "oficialCompra": 1435,
+    "oficialVenta": 1485,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 1.35
+  },
+  {
+    "fecha": "2026-01-14",
+    "oficialCompra": 1430,
+    "oficialVenta": 1480,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 2.36
+  },
+  {
+    "fecha": "2026-01-15",
+    "oficialCompra": 1420,
+    "oficialVenta": 1470,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 2.72
+  },
+  {
+    "fecha": "2026-01-16",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 3.09
+  },
+  {
+    "fecha": "2026-01-17",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 3.09
+  },
+  {
+    "fecha": "2026-01-18",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 3.09
+  },
+  {
+    "fecha": "2026-01-19",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 3.08
+  },
+  {
+    "fecha": "2026-01-20",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 3.08
+  },
+  {
+    "fecha": "2026-01-21",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1480,
+    "blueVenta": 1500,
+    "brecha": 3.09
+  },
+  {
+    "fecha": "2026-01-22",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1475,
+    "blueVenta": 1495,
+    "brecha": 3.1
+  },
+  {
+    "fecha": "2026-01-23",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 2.06
+  },
+  {
+    "fecha": "2026-01-24",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 2.06
+  },
+  {
+    "fecha": "2026-01-25",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 2.06
+  },
+  {
+    "fecha": "2026-01-26",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1470,
+    "blueVenta": 1490,
+    "brecha": 2.05
+  },
+  {
+    "fecha": "2026-01-27",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1470,
+    "blueVenta": 1490,
+    "brecha": 1.71
+  },
+  {
+    "fecha": "2026-01-28",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 1.37
+  },
+  {
+    "fecha": "2026-01-29",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 0.68
+  },
+  {
+    "fecha": "2026-01-30",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1450,
+    "blueVenta": 1470,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2026-01-31",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1450,
+    "blueVenta": 1470,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2026-02-01",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1450,
+    "blueVenta": 1470,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2026-02-02",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1450,
+    "blueVenta": 1470,
+    "brecha": 0.34
+  },
+  {
+    "fecha": "2026-02-03",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": -1.02
+  },
+  {
+    "fecha": "2026-02-04",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1435,
+    "blueVenta": 1455,
+    "brecha": -0.68
+  },
+  {
+    "fecha": "2026-02-05",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2026-02-06",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.03
+  },
+  {
+    "fecha": "2026-02-07",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.03
+  },
+  {
+    "fecha": "2026-02-08",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.03
+  },
+  {
+    "fecha": "2026-02-09",
+    "oficialCompra": 1390,
+    "oficialVenta": 1440,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": -0.69
+  },
+  {
+    "fecha": "2026-02-10",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-02-11",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-02-12",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 1.77
+  },
+  {
+    "fecha": "2026-02-13",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-02-14",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-02-15",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-02-16",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-02-17",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-02-18",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-02-19",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 2.13
+  },
+  {
+    "fecha": "2026-02-20",
+    "oficialCompra": 1345,
+    "oficialVenta": 1395,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 2.51
+  },
+  {
+    "fecha": "2026-02-21",
+    "oficialCompra": 1345,
+    "oficialVenta": 1395,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 2.51
+  },
+  {
+    "fecha": "2026-02-22",
+    "oficialCompra": 1345,
+    "oficialVenta": 1395,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 2.51
+  },
+  {
+    "fecha": "2026-02-23",
+    "oficialCompra": 1340,
+    "oficialVenta": 1390,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 2.52
+  },
+  {
+    "fecha": "2026-02-24",
+    "oficialCompra": 1350,
+    "oficialVenta": 1400,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 2.14
+  },
+  {
+    "fecha": "2026-02-25",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": 2.12
+  },
+  {
+    "fecha": "2026-02-26",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-02-27",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-02-28",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-03-01",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-03-02",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-03-03",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -0.7
+  },
+  {
+    "fecha": "2026-03-04",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-03-05",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.75
+  },
+  {
+    "fecha": "2026-03-06",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -1.39
+  },
+  {
+    "fecha": "2026-03-07",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -1.39
+  },
+  {
+    "fecha": "2026-03-08",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -1.39
+  },
+  {
+    "fecha": "2026-03-09",
+    "oficialCompra": 1385,
+    "oficialVenta": 1435,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": -0.7
+  },
+  {
+    "fecha": "2026-03-10",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-03-11",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-03-12",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-03-13",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-03-14",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-03-15",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-03-16",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-03-17",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-03-18",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 1.41
+  },
+  {
+    "fecha": "2026-03-19",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-03-20",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-03-21",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-03-22",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-03-23",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-03-24",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-03-25",
+    "oficialCompra": 1350,
+    "oficialVenta": 1400,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 1.43
+  },
+  {
+    "fecha": "2026-03-26",
+    "oficialCompra": 1340,
+    "oficialVenta": 1390,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 2.52
+  },
+  {
+    "fecha": "2026-03-27",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-03-28",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-03-29",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-03-30",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-03-31",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 0.36
+  },
+  {
+    "fecha": "2026-04-01",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1405,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-04-02",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1405,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-04-03",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1405,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-04-04",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1405,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-04-05",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1405,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-04-06",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1390,
+    "blueVenta": 1400,
+    "brecha": -1.06
+  },
+  {
+    "fecha": "2026-04-07",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1385,
+    "blueVenta": 1395,
+    "brecha": -1.41
+  },
+  {
+    "fecha": "2026-04-08",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1380,
+    "blueVenta": 1390,
+    "brecha": -1.42
+  },
+  {
+    "fecha": "2026-04-09",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1380,
+    "blueVenta": 1390,
+    "brecha": -1.07
+  },
+  {
+    "fecha": "2026-04-10",
+    "oficialCompra": 1345,
+    "oficialVenta": 1395,
+    "blueCompra": 1375,
+    "blueVenta": 1390,
+    "brecha": -0.36
+  },
+  {
+    "fecha": "2026-04-11",
+    "oficialCompra": 1345,
+    "oficialVenta": 1395,
+    "blueCompra": 1375,
+    "blueVenta": 1390,
+    "brecha": -0.36
+  },
+  {
+    "fecha": "2026-04-12",
+    "oficialCompra": 1345,
+    "oficialVenta": 1395,
+    "blueCompra": 1375,
+    "blueVenta": 1390,
+    "brecha": -0.36
+  },
+  {
+    "fecha": "2026-04-13",
+    "oficialCompra": 1335,
+    "oficialVenta": 1385,
+    "blueCompra": 1385,
+    "blueVenta": 1400,
+    "brecha": 1.08
+  },
+  {
+    "fecha": "2026-04-14",
+    "oficialCompra": 1335,
+    "oficialVenta": 1385,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 1.81
+  },
+  {
+    "fecha": "2026-04-15",
+    "oficialCompra": 1335,
+    "oficialVenta": 1385,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 1.81
+  },
+  {
+    "fecha": "2026-04-16",
+    "oficialCompra": 1330,
+    "oficialVenta": 1380,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 2.54
+  },
+  {
+    "fecha": "2026-04-17",
+    "oficialCompra": 1340,
+    "oficialVenta": 1390,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 1.44
+  },
+  {
+    "fecha": "2026-04-18",
+    "oficialCompra": 1340,
+    "oficialVenta": 1390,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 1.44
+  },
+  {
+    "fecha": "2026-04-19",
+    "oficialCompra": 1340,
+    "oficialVenta": 1390,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 1.44
+  },
+  {
+    "fecha": "2026-04-20",
+    "oficialCompra": 1350,
+    "oficialVenta": 1400,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-04-21",
+    "oficialCompra": 1350,
+    "oficialVenta": 1400,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-04-22",
+    "oficialCompra": 1350,
+    "oficialVenta": 1400,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 1.07
+  },
+  {
+    "fecha": "2026-04-23",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-04-24",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-04-25",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-04-26",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-04-27",
+    "oficialCompra": 1390,
+    "oficialVenta": 1440,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": -0.69
+  },
+  {
+    "fecha": "2026-04-28",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-04-29",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-04-30",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.06
+  },
+  {
+    "fecha": "2026-05-01",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.06
+  },
+  {
+    "fecha": "2026-05-02",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.06
+  },
+  {
+    "fecha": "2026-05-03",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.06
+  },
+  {
+    "fecha": "2026-05-04",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": -1.4
+  },
+  {
+    "fecha": "2026-05-05",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1390,
+    "blueVenta": 1410,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-05-06",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-05-07",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.41
+  },
+  {
+    "fecha": "2026-05-08",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.41
+  },
+  {
+    "fecha": "2026-05-09",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.41
+  },
+  {
+    "fecha": "2026-05-10",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1380,
+    "blueVenta": 1400,
+    "brecha": -1.41
+  },
+  {
+    "fecha": "2026-05-11",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1385,
+    "blueVenta": 1405,
+    "brecha": -0.71
+  },
+  {
+    "fecha": "2026-05-12",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-05-13",
+    "oficialCompra": 1355,
+    "oficialVenta": 1405,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": 0.71
+  },
+  {
+    "fecha": "2026-05-14",
+    "oficialCompra": 1365,
+    "oficialVenta": 1415,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0.35
+  },
+  {
+    "fecha": "2026-05-15",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-05-16",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-05-17",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1395,
+    "blueVenta": 1415,
+    "brecha": -0.35
+  },
+  {
+    "fecha": "2026-05-18",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1400,
+    "blueVenta": 1420,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-19",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-05-20",
+    "oficialCompra": 1370,
+    "oficialVenta": 1420,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0.7
+  },
+  {
+    "fecha": "2026-05-21",
+    "oficialCompra": 1360,
+    "oficialVenta": 1410,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 1.06
+  },
+  {
+    "fecha": "2026-05-22",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-23",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-24",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-25",
+    "oficialCompra": 1375,
+    "oficialVenta": 1425,
+    "blueCompra": 1405,
+    "blueVenta": 1425,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-26",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 0.7
+  },
+  {
+    "fecha": "2026-05-27",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1420,
+    "blueVenta": 1440,
+    "brecha": 0.7
+  },
+  {
+    "fecha": "2026-05-28",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-29",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-30",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-05-31",
+    "oficialCompra": 1380,
+    "oficialVenta": 1430,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-06-01",
+    "oficialCompra": 1395,
+    "oficialVenta": 1445,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -0.69
+  },
+  {
+    "fecha": "2026-06-02",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.03
+  },
+  {
+    "fecha": "2026-06-03",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1410,
+    "blueVenta": 1430,
+    "brecha": -2.05
+  },
+  {
+    "fecha": "2026-06-04",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2026-06-05",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2026-06-06",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2026-06-07",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1415,
+    "blueVenta": 1435,
+    "brecha": -1.71
+  },
+  {
+    "fecha": "2026-06-08",
+    "oficialCompra": 1415,
+    "oficialVenta": 1465,
+    "blueCompra": 1425,
+    "blueVenta": 1445,
+    "brecha": -1.37
+  },
+  {
+    "fecha": "2026-06-09",
+    "oficialCompra": 1410,
+    "oficialVenta": 1460,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-06-10",
+    "oficialCompra": 1405,
+    "oficialVenta": 1455,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": -0.34
+  },
+  {
+    "fecha": "2026-06-11",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1430,
+    "blueVenta": 1450,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-06-12",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0.69
+  },
+  {
+    "fecha": "2026-06-13",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0.69
+  },
+  {
+    "fecha": "2026-06-14",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0.69
+  },
+  {
+    "fecha": "2026-06-15",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1440,
+    "blueVenta": 1460,
+    "brecha": 0.69
+  },
+  {
+    "fecha": "2026-06-16",
+    "oficialCompra": 1400,
+    "oficialVenta": 1450,
+    "blueCompra": 1450,
+    "blueVenta": 1470,
+    "brecha": 1.38
+  },
+  {
+    "fecha": "2026-06-17",
+    "oficialCompra": 1409.97,
+    "oficialVenta": 1461.27,
+    "blueCompra": 1455,
+    "blueVenta": 1475,
+    "brecha": 0.94
+  },
+  {
+    "fecha": "2026-06-18",
+    "oficialCompra": 1420,
+    "oficialVenta": 1470.01,
+    "blueCompra": 1465,
+    "blueVenta": 1485,
+    "brecha": 1.02
+  },
+  {
+    "fecha": "2026-06-19",
+    "oficialCompra": 1432.05,
+    "oficialVenta": 1481.94,
+    "blueCompra": 1460,
+    "blueVenta": 1480,
+    "brecha": -0.13
+  },
+  {
+    "fecha": "2026-06-20",
+    "oficialCompra": 1432.05,
+    "oficialVenta": 1481.94,
+    "blueCompra": 1460,
+    "blueVenta": 1480,
+    "brecha": -0.13
+  },
+  {
+    "fecha": "2026-06-21",
+    "oficialCompra": 1432.05,
+    "oficialVenta": 1481.94,
+    "blueCompra": 1460,
+    "blueVenta": 1480,
+    "brecha": -0.13
+  },
+  {
+    "fecha": "2026-06-22",
+    "oficialCompra": 1431.54,
+    "oficialVenta": 1481.79,
+    "blueCompra": 1475,
+    "blueVenta": 1495,
+    "brecha": 0.89
+  },
+  {
+    "fecha": "2026-06-23",
+    "oficialCompra": 1440,
+    "oficialVenta": 1490,
+    "blueCompra": 1485,
+    "blueVenta": 1505,
+    "brecha": 1.01
+  },
+  {
+    "fecha": "2026-06-24",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2.34
+  },
+  {
+    "fecha": "2026-06-25",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2.34
+  },
+  {
+    "fecha": "2026-06-26",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 1.34
+  },
+  {
+    "fecha": "2026-06-27",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 1.34
+  },
+  {
+    "fecha": "2026-06-28",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 1.34
+  },
+  {
+    "fecha": "2026-06-29",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 1
+  },
+  {
+    "fecha": "2026-06-30",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 1
+  },
+  {
+    "fecha": "2026-07-01",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.99
+  },
+  {
+    "fecha": "2026-07-02",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.99
+  },
+  {
+    "fecha": "2026-07-03",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-04",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-05",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-06",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2026-07-07",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1495,
+    "blueVenta": 1515,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-08",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-09",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-10",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-11",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-12",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1490,
+    "blueVenta": 1510,
+    "brecha": 0
+  },
+  {
+    "fecha": "2026-07-13",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.99
+  },
+  {
+    "fecha": "2026-07-14",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1500,
+    "blueVenta": 1520,
+    "brecha": 1.67
+  },
+  {
+    "fecha": "2026-07-15",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2.34
+  },
+  {
+    "fecha": "2026-07-16",
+    "oficialCompra": 1445,
+    "oficialVenta": 1495,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 2.01
+  },
+  {
+    "fecha": "2026-07-17",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2
+  },
+  {
+    "fecha": "2026-07-18",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2
+  },
+  {
+    "fecha": "2026-07-19",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1510,
+    "blueVenta": 1530,
+    "brecha": 2
+  },
+  {
+    "fecha": "2026-07-20",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 2.67
+  },
+  {
+    "fecha": "2026-07-21",
+    "oficialCompra": 1450,
+    "oficialVenta": 1500,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 3
+  },
+  {
+    "fecha": "2026-07-22",
+    "oficialCompra": 1455,
+    "oficialVenta": 1505,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 3.32
+  },
+  {
+    "fecha": "2026-07-23",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 2.65
+  },
+  {
+    "fecha": "2026-07-24",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 1.64
+  },
+  {
+    "fecha": "2026-07-25",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 1.64
+  },
+  {
+    "fecha": "2026-07-26",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 1.64
+  },
+  {
+    "fecha": "2026-07-27",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 2.63
+  },
+  {
+    "fecha": "2026-07-28",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1550,
+    "blueVenta": 1570,
+    "brecha": 3.29
+  },
+  {
+    "fecha": "2026-07-29",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1550,
+    "blueVenta": 1570,
+    "brecha": 3.63
+  },
+  {
+    "fecha": "2026-07-30",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1545,
+    "blueVenta": 1565,
+    "brecha": 3.64
+  },
+  {
+    "fecha": "2026-07-31",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 3.31
+  },
+  {
+    "fecha": "2026-08-01",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 3.31
+  },
+  {
+    "fecha": "2026-08-02",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 3.31
+  },
+  {
+    "fecha": "2026-08-03",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 2.64
+  },
+  {
+    "fecha": "2026-08-04",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 1.98
+  },
+  {
+    "fecha": "2026-08-05",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 1.32
+  },
+  {
+    "fecha": "2026-08-06",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 1.32
+  },
+  {
+    "fecha": "2026-08-07",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2026-08-08",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2026-08-09",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1505,
+    "blueVenta": 1525,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2026-08-10",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1515,
+    "blueVenta": 1535,
+    "brecha": 0.99
+  },
+  {
+    "fecha": "2026-08-11",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 2.31
+  },
+  {
+    "fecha": "2026-08-12",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 1.65
+  },
+  {
+    "fecha": "2026-08-13",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 1.65
+  },
+  {
+    "fecha": "2026-08-14",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 2.32
+  },
+  {
+    "fecha": "2026-08-15",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 2.32
+  },
+  {
+    "fecha": "2026-08-16",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 2.32
+  },
+  {
+    "fecha": "2026-08-17",
+    "oficialCompra": 1460,
+    "oficialVenta": 1510,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 2.32
+  },
+  {
+    "fecha": "2026-08-18",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 2.64
+  },
+  {
+    "fecha": "2026-08-19",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 2.97
+  },
+  {
+    "fecha": "2026-08-20",
+    "oficialCompra": 1465,
+    "oficialVenta": 1515,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 2.31
+  },
+  {
+    "fecha": "2026-08-21",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 1.97
+  },
+  {
+    "fecha": "2026-08-22",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 1.97
+  },
+  {
+    "fecha": "2026-08-23",
+    "oficialCompra": 1470,
+    "oficialVenta": 1520,
+    "blueCompra": 1530,
+    "blueVenta": 1550,
+    "brecha": 1.97
+  },
+  {
+    "fecha": "2026-08-24",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1545,
+    "blueVenta": 1565,
+    "brecha": 2.29
+  },
+  {
+    "fecha": "2026-08-25",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 1.96
+  },
+  {
+    "fecha": "2026-08-26",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2026-08-27",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2026-08-28",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2026-08-29",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2026-08-30",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2026-08-31",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.63
+  },
+  {
+    "fecha": "2026-09-01",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1535,
+    "blueVenta": 1555,
+    "brecha": 1.3
+  },
+  {
+    "fecha": "2026-09-02",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 0.65
+  },
+  {
+    "fecha": "2026-09-03",
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 0.33
+  },
+  {
+    "fecha": "2026-09-04",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 0.65
+  },
+  {
+    "fecha": "2026-09-05",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 0.65
+  },
+  {
+    "fecha": "2026-09-06",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 0.65
+  },
+  {
+    "fecha": "2026-09-07",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1520,
+    "blueVenta": 1540,
+    "brecha": 0.65
+  },
+  {
+    "fecha": "2026-09-08",
+    "oficialCompra": 1480,
+    "oficialVenta": 1530,
+    "blueCompra": 1525,
+    "blueVenta": 1545,
+    "brecha": 0.98
+  }
+]

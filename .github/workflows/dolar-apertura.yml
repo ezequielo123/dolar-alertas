@@ -1,0 +1,41 @@
+name: Dólar · apertura
+
+# Los cron de GitHub Actions van en UTC y Argentina es UTC-3 todo el año.
+# 14:30 UTC = 11:30 de Argentina, cuando ya cargaron las primeras cotizaciones de la rueda.
+on:
+  schedule:
+    - cron: '30 14 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: dolar-estado
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: node bin/diario.mjs apertura
+        env:
+          DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_FROM_NOMBRE: ${{ vars.MAIL_FROM_NOMBRE }}
+          TWILIO_SID: ${{ secrets.TWILIO_SID }}
+          TWILIO_TOKEN: ${{ secrets.TWILIO_TOKEN }}
+          TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
+      - name: Guardar estado
+        if: always()
+        run: |
+          git config user.name  "Ezequiel Orozco"
+          git config user.email "ezequiel.d.orozco@gmail.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "datos: apertura $(date -u +%F)"
+          git pull --rebase --autostash && git push

@@ -1,0 +1,4 @@
+node_modules/
+vista-previa/
+.env
+.DS_Store

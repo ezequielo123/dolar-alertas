@@ -1,0 +1,14 @@
+{
+  "saltos": {
+    "umbralOficial": 1.0,
+    "umbralBlue": 1.5,
+    "minutosEntreAvisos": 45,
+    "maximoPorDia": 4
+  },
+  "horarios": {
+    "comentario": "Los cron de GitHub Actions van en UTC. Argentina es UTC-3 todo el año.",
+    "aperturaART": "11:30",
+    "cierreART": "18:15",
+    "intradiaART": "de 11:00 a 18:00, cada 20 minutos"
+  }
+}

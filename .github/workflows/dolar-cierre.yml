@@ -1,0 +1,41 @@
+name: Dólar · cierre
+
+# Los cron de GitHub Actions van en UTC y Argentina es UTC-3 todo el año.
+# 21:15 UTC = 18:15 de Argentina, con la rueda ya cerrada.
+on:
+  schedule:
+    - cron: '15 21 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: dolar-estado
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  avisar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: node bin/diario.mjs cierre
+        env:
+          DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_FROM_NOMBRE: ${{ vars.MAIL_FROM_NOMBRE }}
+          TWILIO_SID: ${{ secrets.TWILIO_SID }}
+          TWILIO_TOKEN: ${{ secrets.TWILIO_TOKEN }}
+          TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
+      - name: Guardar estado
+        if: always()
+        run: |
+          git config user.name  "Ezequiel Orozco"
+          git config user.email "ezequiel.d.orozco@gmail.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "datos: cierre $(date -u +%F)"
+          git pull --rebase --autostash && git push

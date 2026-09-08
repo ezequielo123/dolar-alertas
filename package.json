@@ -1,0 +1,15 @@
+{
+  "name": "dolar-alertas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Avisos por email y WhatsApp del dólar oficial y blue (apertura, cierre y saltos) y del índice CAC mensual.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "apertura": "node bin/diario.mjs apertura",
+    "cierre": "node bin/diario.mjs cierre",
+    "intradia": "node bin/intradia.mjs",
+    "cac": "node bin/cac.mjs",
+    "probar": "node bin/probar.mjs"
+  }
+}
