@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "anio": 2026,
+    "mes": 7,
+    "periodo": "julio 2026",
+    "clave": "2026-07",
+    "variacion": {
+      "general": 1.48,
+      "materiales": 1.04,
+      "manoDeObra": 2.32
+    },
+    "indice": {
+      "general": 21960.7,
+      "materiales": 24149.4,
+      "manoDeObra": 18752.8
+    },
+    "interanual": 29.6,
+    "proximaPublicacion": "Entre el 20 y 25 de septiembre 2026",
+    "fuentes": [
+      "calculadoracac.com.ar",
+      "factibilia.com"
+    ],
+    "discrepancia": null,
+    "consultado": "2026-09-08T16:59:02.822Z"
+  }
+]

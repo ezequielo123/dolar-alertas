@@ -19,5 +19,9 @@
     "motivo": "apertura"
   },
   "saltos": [],
-  "cac": null
+  "cac": {
+    "clave": "2026-07",
+    "periodo": "julio 2026",
+    "avisado": "2026-09-08T16:59:03.371Z"
+  }
 }
