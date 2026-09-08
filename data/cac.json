@@ -1,26 +1,1498 @@
 [
   {
+    "anio": 2011,
+    "mes": 1,
+    "clave": "2011-01",
+    "general": 38.1,
+    "materiales": 37.5,
+    "manoDeObra": 38.8
+  },
+  {
+    "anio": 2011,
+    "mes": 2,
+    "clave": "2011-02",
+    "general": 38.6,
+    "materiales": 38.2,
+    "manoDeObra": 38.9
+  },
+  {
+    "anio": 2011,
+    "mes": 3,
+    "clave": "2011-03",
+    "general": 39,
+    "materiales": 39,
+    "manoDeObra": 38.9
+  },
+  {
+    "anio": 2011,
+    "mes": 4,
+    "clave": "2011-04",
+    "general": 40.5,
+    "materiales": 39.6,
+    "manoDeObra": 41.4
+  },
+  {
+    "anio": 2011,
+    "mes": 5,
+    "clave": "2011-05",
+    "general": 42.8,
+    "materiales": 40.3,
+    "manoDeObra": 45.3
+  },
+  {
+    "anio": 2011,
+    "mes": 6,
+    "clave": "2011-06",
+    "general": 41.2,
+    "materiales": 41,
+    "manoDeObra": 41.3
+  },
+  {
+    "anio": 2011,
+    "mes": 7,
+    "clave": "2011-07",
+    "general": 43.5,
+    "materiales": 41.6,
+    "manoDeObra": 45.4
+  },
+  {
+    "anio": 2011,
+    "mes": 8,
+    "clave": "2011-08",
+    "general": 43.1,
+    "materiales": 42.2,
+    "manoDeObra": 43.9
+  },
+  {
+    "anio": 2011,
+    "mes": 9,
+    "clave": "2011-09",
+    "general": 45,
+    "materiales": 42.5,
+    "manoDeObra": 47.5
+  },
+  {
+    "anio": 2011,
+    "mes": 10,
+    "clave": "2011-10",
+    "general": 45.3,
+    "materiales": 43.1,
+    "manoDeObra": 47.5
+  },
+  {
+    "anio": 2011,
+    "mes": 11,
+    "clave": "2011-11",
+    "general": 45.1,
+    "materiales": 43.7,
+    "manoDeObra": 46.5
+  },
+  {
+    "anio": 2011,
+    "mes": 12,
+    "clave": "2011-12",
+    "general": 45.4,
+    "materiales": 44.3,
+    "manoDeObra": 46.5
+  },
+  {
+    "anio": 2012,
+    "mes": 1,
+    "clave": "2012-01",
+    "general": 47.4,
+    "materiales": 44.8,
+    "manoDeObra": 49.9
+  },
+  {
+    "anio": 2012,
+    "mes": 2,
+    "clave": "2012-02",
+    "general": 47.6,
+    "materiales": 45.3,
+    "manoDeObra": 49.9
+  },
+  {
+    "anio": 2012,
+    "mes": 3,
+    "clave": "2012-03",
+    "general": 47.9,
+    "materiales": 45.8,
+    "manoDeObra": 49.9
+  },
+  {
+    "anio": 2012,
+    "mes": 4,
+    "clave": "2012-04",
+    "general": 48.4,
+    "materiales": 46.6,
+    "manoDeObra": 50.2
+  },
+  {
+    "anio": 2012,
+    "mes": 5,
+    "clave": "2012-05",
+    "general": 47.5,
+    "materiales": 47.4,
+    "manoDeObra": 47.6
+  },
+  {
+    "anio": 2012,
+    "mes": 6,
+    "clave": "2012-06",
+    "general": 53,
+    "materiales": 48.1,
+    "manoDeObra": 57.7
+  },
+  {
+    "anio": 2012,
+    "mes": 7,
+    "clave": "2012-07",
+    "general": 58,
+    "materiales": 48.8,
+    "manoDeObra": 67.1
+  },
+  {
+    "anio": 2012,
+    "mes": 8,
+    "clave": "2012-08",
+    "general": 54.9,
+    "materiales": 49.6,
+    "manoDeObra": 60.2
+  },
+  {
+    "anio": 2012,
+    "mes": 9,
+    "clave": "2012-09",
+    "general": 55.5,
+    "materiales": 50.1,
+    "manoDeObra": 60.7
+  },
+  {
+    "anio": 2012,
+    "mes": 10,
+    "clave": "2012-10",
+    "general": 56,
+    "materiales": 51.1,
+    "manoDeObra": 60.7
+  },
+  {
+    "anio": 2012,
+    "mes": 11,
+    "clave": "2012-11",
+    "general": 56.6,
+    "materiales": 52.4,
+    "manoDeObra": 60.7
+  },
+  {
+    "anio": 2012,
+    "mes": 12,
+    "clave": "2012-12",
+    "general": 57.1,
+    "materiales": 53,
+    "manoDeObra": 61
+  },
+  {
+    "anio": 2013,
+    "mes": 1,
+    "clave": "2013-01",
+    "general": 58.2,
+    "materiales": 54,
+    "manoDeObra": 62.3
+  },
+  {
+    "anio": 2013,
+    "mes": 2,
+    "clave": "2013-02",
+    "general": 58.3,
+    "materiales": 54.6,
+    "manoDeObra": 62
+  },
+  {
+    "anio": 2013,
+    "mes": 3,
+    "clave": "2013-03",
+    "general": 60.1,
+    "materiales": 55.6,
+    "manoDeObra": 64.6
+  },
+  {
+    "anio": 2013,
+    "mes": 4,
+    "clave": "2013-04",
+    "general": 61,
+    "materiales": 56.8,
+    "manoDeObra": 65.1
+  },
+  {
+    "anio": 2013,
+    "mes": 5,
+    "clave": "2013-05",
+    "general": 61.2,
+    "materiales": 58,
+    "manoDeObra": 64.4
+  },
+  {
+    "anio": 2013,
+    "mes": 6,
+    "clave": "2013-06",
+    "general": 67.1,
+    "materiales": 58.9,
+    "manoDeObra": 75
+  },
+  {
+    "anio": 2013,
+    "mes": 7,
+    "clave": "2013-07",
+    "general": 68.1,
+    "materiales": 59.9,
+    "manoDeObra": 76.2
+  },
+  {
+    "anio": 2013,
+    "mes": 8,
+    "clave": "2013-08",
+    "general": 68.7,
+    "materiales": 61.1,
+    "manoDeObra": 76.2
+  },
+  {
+    "anio": 2013,
+    "mes": 9,
+    "clave": "2013-09",
+    "general": 69.1,
+    "materiales": 62.2,
+    "manoDeObra": 76
+  },
+  {
+    "anio": 2013,
+    "mes": 10,
+    "clave": "2013-10",
+    "general": 69.9,
+    "materiales": 63.8,
+    "manoDeObra": 76
+  },
+  {
+    "anio": 2013,
+    "mes": 11,
+    "clave": "2013-11",
+    "general": 71.1,
+    "materiales": 66.2,
+    "manoDeObra": 76
+  },
+  {
+    "anio": 2013,
+    "mes": 12,
+    "clave": "2013-12",
+    "general": 73.8,
+    "materiales": 69.2,
+    "manoDeObra": 78.3
+  },
+  {
+    "anio": 2014,
+    "mes": 1,
+    "clave": "2014-01",
+    "general": 77.1,
+    "materiales": 74.9,
+    "manoDeObra": 79.2
+  },
+  {
+    "anio": 2014,
+    "mes": 2,
+    "clave": "2014-02",
+    "general": 79.1,
+    "materiales": 79.1,
+    "manoDeObra": 79.2
+  },
+  {
+    "anio": 2014,
+    "mes": 3,
+    "clave": "2014-03",
+    "general": 79.8,
+    "materiales": 81.33,
+    "manoDeObra": 78.4
+  },
+  {
+    "anio": 2014,
+    "mes": 4,
+    "clave": "2014-04",
+    "general": 87.4,
+    "materiales": 84.2,
+    "manoDeObra": 90.5
+  },
+  {
+    "anio": 2014,
+    "mes": 5,
+    "clave": "2014-05",
+    "general": 88.3,
+    "materiales": 86.4,
+    "manoDeObra": 90.1
+  },
+  {
+    "anio": 2014,
+    "mes": 6,
+    "clave": "2014-06",
+    "general": 88.9,
+    "materiales": 87.7,
+    "manoDeObra": 90.1
+  },
+  {
+    "anio": 2014,
+    "mes": 7,
+    "clave": "2014-07",
+    "general": 94.6,
+    "materiales": 89.5,
+    "manoDeObra": 99.5
+  },
+  {
+    "anio": 2014,
+    "mes": 8,
+    "clave": "2014-08",
+    "general": 96,
+    "materiales": 92.3,
+    "manoDeObra": 99.7
+  },
+  {
+    "anio": 2014,
+    "mes": 9,
+    "clave": "2014-09",
+    "general": 97,
+    "materiales": 94.4,
+    "manoDeObra": 99.7
+  },
+  {
+    "anio": 2014,
+    "mes": 10,
+    "clave": "2014-10",
+    "general": 98.3,
+    "materiales": 96.7,
+    "manoDeObra": 100
+  },
+  {
+    "anio": 2014,
+    "mes": 11,
+    "clave": "2014-11",
+    "general": 99.5,
+    "materiales": 98.9,
+    "manoDeObra": 100
+  },
+  {
+    "anio": 2014,
+    "mes": 12,
+    "clave": "2014-12",
+    "general": 100,
+    "materiales": 100,
+    "manoDeObra": 100
+  },
+  {
+    "anio": 2015,
+    "mes": 1,
+    "clave": "2015-01",
+    "general": 102.1,
+    "materiales": 101.6,
+    "manoDeObra": 102.7
+  },
+  {
+    "anio": 2015,
+    "mes": 2,
+    "clave": "2015-02",
+    "general": 104.1,
+    "materiales": 103.7,
+    "manoDeObra": 104.6
+  },
+  {
+    "anio": 2015,
+    "mes": 3,
+    "clave": "2015-03",
+    "general": 105.1,
+    "materiales": 104.4,
+    "manoDeObra": 104.6
+  },
+  {
+    "anio": 2015,
+    "mes": 4,
+    "clave": "2015-04",
+    "general": 105.1,
+    "materiales": 107.2,
+    "manoDeObra": 101.9
+  },
+  {
+    "anio": 2015,
+    "mes": 5,
+    "clave": "2015-05",
+    "general": 112.8,
+    "materiales": 109.2,
+    "manoDeObra": 118
+  },
+  {
+    "anio": 2015,
+    "mes": 6,
+    "clave": "2015-06",
+    "general": 120.2,
+    "materiales": 110.7,
+    "manoDeObra": 134.3
+  },
+  {
+    "anio": 2015,
+    "mes": 7,
+    "clave": "2015-07",
+    "general": 114.6,
+    "materiales": 112.2,
+    "manoDeObra": 118.2
+  },
+  {
+    "anio": 2015,
+    "mes": 8,
+    "clave": "2015-08",
+    "general": 120.1,
+    "materiales": 114.4,
+    "manoDeObra": 128.5
+  },
+  {
+    "anio": 2015,
+    "mes": 9,
+    "clave": "2015-09",
+    "general": 121.1,
+    "materiales": 116.1,
+    "manoDeObra": 128.5
+  },
+  {
+    "anio": 2015,
+    "mes": 10,
+    "clave": "2015-10",
+    "general": 122.3,
+    "materiales": 117.9,
+    "manoDeObra": 128.7
+  },
+  {
+    "anio": 2015,
+    "mes": 11,
+    "clave": "2015-11",
+    "general": 124.8,
+    "materiales": 122.1,
+    "manoDeObra": 128.7
+  },
+  {
+    "anio": 2015,
+    "mes": 12,
+    "clave": "2015-12",
+    "general": 131.2,
+    "materiales": 132.3,
+    "manoDeObra": 129.6
+  },
+  {
+    "anio": 2016,
+    "mes": 1,
+    "clave": "2016-01",
+    "general": 135.1,
+    "materiales": 137.4,
+    "manoDeObra": 131.7
+  },
+  {
+    "anio": 2016,
+    "mes": 2,
+    "clave": "2016-02",
+    "general": 138.8,
+    "materiales": 141.8,
+    "manoDeObra": 134.4
+  },
+  {
+    "anio": 2016,
+    "mes": 3,
+    "clave": "2016-03",
+    "general": 140.2,
+    "materiales": 144.1,
+    "manoDeObra": 134.4
+  },
+  {
+    "anio": 2016,
+    "mes": 4,
+    "clave": "2016-04",
+    "general": 151.6,
+    "materiales": 146.8,
+    "manoDeObra": 158.7
+  },
+  {
+    "anio": 2016,
+    "mes": 5,
+    "clave": "2016-05",
+    "general": 153.1,
+    "materiales": 149.1,
+    "manoDeObra": 159
+  },
+  {
+    "anio": 2016,
+    "mes": 6,
+    "clave": "2016-06",
+    "general": 154.4,
+    "materiales": 150.6,
+    "manoDeObra": 159.9
+  },
+  {
+    "anio": 2016,
+    "mes": 7,
+    "clave": "2016-07",
+    "general": 156.4,
+    "materiales": 153.2,
+    "manoDeObra": 161.2
+  },
+  {
+    "anio": 2016,
+    "mes": 8,
+    "clave": "2016-08",
+    "general": 157,
+    "materiales": 154.2,
+    "manoDeObra": 161.2
+  },
+  {
+    "anio": 2016,
+    "mes": 9,
+    "clave": "2016-09",
+    "general": 158.2,
+    "materiales": 156.2,
+    "manoDeObra": 161.2
+  },
+  {
+    "anio": 2016,
+    "mes": 10,
+    "clave": "2016-10",
+    "general": 165.8,
+    "materiales": 158.4,
+    "manoDeObra": 176.6
+  },
+  {
+    "anio": 2016,
+    "mes": 11,
+    "clave": "2016-11",
+    "general": 167.4,
+    "materiales": 161.1,
+    "manoDeObra": 176.6
+  },
+  {
+    "anio": 2016,
+    "mes": 12,
+    "clave": "2016-12",
+    "general": 171.3,
+    "materiales": 163.6,
+    "manoDeObra": 182.6
+  },
+  {
+    "anio": 2017,
+    "mes": 1,
+    "clave": "2017-01",
+    "general": 178.3,
+    "materiales": 167.8,
+    "manoDeObra": 193.6
+  },
+  {
+    "anio": 2017,
+    "mes": 2,
+    "clave": "2017-02",
+    "general": 179,
+    "materiales": 169,
+    "manoDeObra": 193.6
+  },
+  {
+    "anio": 2017,
+    "mes": 3,
+    "clave": "2017-03",
+    "general": 180,
+    "materiales": 170.7,
+    "manoDeObra": 193.6
+  },
+  {
+    "anio": 2017,
+    "mes": 4,
+    "clave": "2017-04",
+    "general": 187.3,
+    "materiales": 173.2,
+    "manoDeObra": 207.9
+  },
+  {
+    "anio": 2017,
+    "mes": 5,
+    "clave": "2017-05",
+    "general": 189.4,
+    "materiales": 176,
+    "manoDeObra": 209.2
+  },
+  {
+    "anio": 2017,
+    "mes": 6,
+    "clave": "2017-06",
+    "general": 191.2,
+    "materiales": 179,
+    "manoDeObra": 209.2
+  },
+  {
+    "anio": 2017,
+    "mes": 7,
+    "clave": "2017-07",
+    "general": 202.2,
+    "materiales": 184.5,
+    "manoDeObra": 228.1
+  },
+  {
+    "anio": 2017,
+    "mes": 8,
+    "clave": "2017-08",
+    "general": 204.5,
+    "materiales": 188.4,
+    "manoDeObra": 228.1
+  },
+  {
+    "anio": 2017,
+    "mes": 9,
+    "clave": "2017-09",
+    "general": 206.2,
+    "materiales": 191.3,
+    "manoDeObra": 228.1
+  },
+  {
+    "anio": 2017,
+    "mes": 10,
+    "clave": "2017-10",
+    "general": 208,
+    "materiales": 194.2,
+    "manoDeObra": 228.1
+  },
+  {
+    "anio": 2017,
+    "mes": 11,
+    "clave": "2017-11",
+    "general": 210.1,
+    "materiales": 197.8,
+    "manoDeObra": 228.1
+  },
+  {
+    "anio": 2017,
+    "mes": 12,
+    "clave": "2017-12",
+    "general": 212.7,
+    "materiales": 202.2,
+    "manoDeObra": 228.1
+  },
+  {
+    "anio": 2018,
+    "mes": 1,
+    "clave": "2018-01",
+    "general": 220.2,
+    "materiales": 209.4,
+    "manoDeObra": 236.1
+  },
+  {
+    "anio": 2018,
+    "mes": 2,
+    "clave": "2018-02",
+    "general": 224.3,
+    "materiales": 214.1,
+    "manoDeObra": 239.3
+  },
+  {
+    "anio": 2018,
+    "mes": 3,
+    "clave": "2018-03",
+    "general": 229.8,
+    "materiales": 220.7,
+    "manoDeObra": 243.2
+  },
+  {
+    "anio": 2018,
+    "mes": 4,
+    "clave": "2018-04",
+    "general": 239.6,
+    "materiales": 227.7,
+    "manoDeObra": 257.1
+  },
+  {
+    "anio": 2018,
+    "mes": 5,
+    "clave": "2018-05",
+    "general": 248.5,
+    "materiales": 242.7,
+    "manoDeObra": 257.1
+  },
+  {
+    "anio": 2018,
+    "mes": 6,
+    "clave": "2018-06",
+    "general": 259.4,
+    "materiales": 260.6,
+    "manoDeObra": 257.5
+  },
+  {
+    "anio": 2018,
+    "mes": 7,
+    "clave": "2018-07",
+    "general": 264.4,
+    "materiales": 268.4,
+    "manoDeObra": 258.5
+  },
+  {
+    "anio": 2018,
+    "mes": 8,
+    "clave": "2018-08",
+    "general": 283.6,
+    "materiales": 291.1,
+    "manoDeObra": 272.6
+  },
+  {
+    "anio": 2018,
+    "mes": 9,
+    "clave": "2018-09",
+    "general": 305.1,
+    "materiales": 319.4,
+    "manoDeObra": 284.2
+  },
+  {
+    "anio": 2018,
+    "mes": 10,
+    "clave": "2018-10",
+    "general": 311.5,
+    "materiales": 330,
+    "manoDeObra": 284.5
+  },
+  {
+    "anio": 2018,
+    "mes": 11,
+    "clave": "2018-11",
+    "general": 323.7,
+    "materiales": 338.7,
+    "manoDeObra": 301.7
+  },
+  {
+    "anio": 2018,
+    "mes": 12,
+    "clave": "2018-12",
+    "general": 331.5,
+    "materiales": 344.5,
+    "manoDeObra": 312.5
+  },
+  {
+    "anio": 2019,
+    "mes": 1,
+    "clave": "2019-01",
+    "general": 339.3,
+    "materiales": 353.6,
+    "manoDeObra": 318.2
+  },
+  {
+    "anio": 2019,
+    "mes": 2,
+    "clave": "2019-02",
+    "general": 346.1,
+    "materiales": 364.3,
+    "manoDeObra": 319.3
+  },
+  {
+    "anio": 2019,
+    "mes": 3,
+    "clave": "2019-03",
+    "general": 361,
+    "materiales": 382,
+    "manoDeObra": 330.1
+  },
+  {
+    "anio": 2019,
+    "mes": 4,
+    "clave": "2019-04",
+    "general": 381.5,
+    "materiales": 394.8,
+    "manoDeObra": 361.9
+  },
+  {
+    "anio": 2019,
+    "mes": 5,
+    "clave": "2019-05",
+    "general": 395.6,
+    "materiales": 404.8,
+    "manoDeObra": 382.3
+  },
+  {
+    "anio": 2019,
+    "mes": 6,
+    "clave": "2019-06",
+    "general": 400.9,
+    "materiales": 413.5,
+    "manoDeObra": 382.4
+  },
+  {
+    "anio": 2019,
+    "mes": 7,
+    "clave": "2019-07",
+    "general": 410.7,
+    "materiales": 418.7,
+    "manoDeObra": 398.9
+  },
+  {
+    "anio": 2019,
+    "mes": 8,
+    "clave": "2019-08",
+    "general": 453.4,
+    "materiales": 480.9,
+    "manoDeObra": 412.9
+  },
+  {
+    "anio": 2019,
+    "mes": 9,
+    "clave": "2019-09",
+    "general": 459,
+    "materiales": 490.5,
+    "manoDeObra": 412.9
+  },
+  {
+    "anio": 2019,
+    "mes": 10,
+    "clave": "2019-10",
+    "general": 486.4,
+    "materiales": 515.1,
+    "manoDeObra": 444.2
+  },
+  {
+    "anio": 2019,
+    "mes": 11,
+    "clave": "2019-11",
+    "general": 507.4,
+    "materiales": 532.8,
+    "manoDeObra": 470.2
+  },
+  {
+    "anio": 2019,
+    "mes": 12,
+    "clave": "2019-12",
+    "general": 513.1,
+    "materiales": 542.4,
+    "manoDeObra": 470.2
+  },
+  {
+    "anio": 2020,
+    "mes": 1,
+    "clave": "2020-01",
+    "general": 539.6,
+    "materiales": 552.4,
+    "manoDeObra": 520.7
+  },
+  {
+    "anio": 2020,
+    "mes": 2,
+    "clave": "2020-02",
+    "general": 560.2,
+    "materiales": 564.6,
+    "manoDeObra": 553.7
+  },
+  {
+    "anio": 2020,
+    "mes": 3,
+    "clave": "2020-03",
+    "general": 565.3,
+    "materiales": 575.9,
+    "manoDeObra": 554.1
+  },
+  {
+    "anio": 2020,
+    "mes": 4,
+    "clave": "2020-04",
+    "general": 573,
+    "materiales": 584.6,
+    "manoDeObra": 556
+  },
+  {
+    "anio": 2020,
+    "mes": 5,
+    "clave": "2020-05",
+    "general": 588.1,
+    "materiales": 606.9,
+    "manoDeObra": 560.5
+  },
+  {
+    "anio": 2020,
+    "mes": 6,
+    "clave": "2020-06",
+    "general": 598.6,
+    "materiales": 624,
+    "manoDeObra": 561.3
+  },
+  {
+    "anio": 2020,
+    "mes": 7,
+    "clave": "2020-07",
+    "general": 615.2,
+    "materiales": 651.8,
+    "manoDeObra": 561.6
+  },
+  {
+    "anio": 2020,
+    "mes": 8,
+    "clave": "2020-08",
+    "general": 631.5,
+    "materiales": 679.3,
+    "manoDeObra": 561.6
+  },
+  {
+    "anio": 2020,
+    "mes": 9,
+    "clave": "2020-09",
+    "general": 655.8,
+    "materiales": 717.6,
+    "manoDeObra": 565.2
+  },
+  {
+    "anio": 2020,
+    "mes": 10,
+    "clave": "2020-10",
+    "general": 695.1,
+    "materiales": 780.8,
+    "manoDeObra": 569.8
+  },
+  {
+    "anio": 2020,
+    "mes": 11,
+    "clave": "2020-11",
+    "general": 763.4,
+    "materiales": 833,
+    "manoDeObra": 661.4
+  },
+  {
+    "anio": 2020,
+    "mes": 12,
+    "clave": "2020-12",
+    "general": 794.4,
+    "materiales": 884.8,
+    "manoDeObra": 662
+  },
+  {
+    "anio": 2021,
+    "mes": 1,
+    "clave": "2021-01",
+    "general": 824.9,
+    "materiales": 936.1,
+    "manoDeObra": 662
+  },
+  {
+    "anio": 2021,
+    "mes": 2,
+    "clave": "2021-02",
+    "general": 872.7,
+    "materiales": 987.4,
+    "manoDeObra": 704.7
+  },
+  {
+    "anio": 2021,
+    "mes": 3,
+    "clave": "2021-03",
+    "general": 896.7,
+    "materiales": 1027.5,
+    "manoDeObra": 704.9
+  },
+  {
+    "anio": 2021,
+    "mes": 4,
+    "clave": "2021-04",
+    "general": 959.1,
+    "materiales": 1074.2,
+    "manoDeObra": 790.3
+  },
+  {
+    "anio": 2021,
+    "mes": 5,
+    "clave": "2021-05",
+    "general": 988.4,
+    "materiales": 1122.3,
+    "manoDeObra": 792.2
+  },
+  {
+    "anio": 2021,
+    "mes": 6,
+    "clave": "2021-06",
+    "general": 1011.3,
+    "materiales": 1160.8,
+    "manoDeObra": 792.3
+  },
+  {
+    "anio": 2021,
+    "mes": 7,
+    "clave": "2021-07",
+    "general": 1065.8,
+    "materiales": 1205.2,
+    "manoDeObra": 861.4
+  },
+  {
+    "anio": 2021,
+    "mes": 8,
+    "clave": "2021-08",
+    "general": 1089.8,
+    "materiales": 1245.7,
+    "manoDeObra": 861.4
+  },
+  {
+    "anio": 2021,
+    "mes": 9,
+    "clave": "2021-09",
+    "general": 1131.2,
+    "materiales": 1291.8,
+    "manoDeObra": 895.9
+  },
+  {
+    "anio": 2021,
+    "mes": 10,
+    "clave": "2021-10",
+    "general": 1180.2,
+    "materiales": 1341.5,
+    "manoDeObra": 943.6
+  },
+  {
+    "anio": 2021,
+    "mes": 11,
+    "clave": "2021-11",
+    "general": 1210,
+    "materiales": 1391.6,
+    "manoDeObra": 943.6
+  },
+  {
+    "anio": 2021,
+    "mes": 12,
+    "clave": "2021-12",
+    "general": 1234.3,
+    "materiales": 1431.9,
+    "manoDeObra": 944.9
+  },
+  {
+    "anio": 2022,
+    "mes": 1,
+    "clave": "2022-01",
+    "general": 1281.5,
+    "materiales": 1487.1,
+    "manoDeObra": 980.2
+  },
+  {
+    "anio": 2022,
+    "mes": 2,
+    "clave": "2022-02",
+    "general": 1344.5,
+    "materiales": 1545.8,
+    "manoDeObra": 1049.4
+  },
+  {
+    "anio": 2022,
+    "mes": 3,
+    "clave": "2022-03",
+    "general": 1416.2,
+    "materiales": 1624.6,
+    "manoDeObra": 1110.7
+  },
+  {
+    "anio": 2022,
+    "mes": 4,
+    "clave": "2022-04",
+    "general": 1467.2,
+    "materiales": 1709.9,
+    "manoDeObra": 1111.5
+  },
+  {
+    "anio": 2022,
+    "mes": 5,
+    "clave": "2022-05",
+    "general": 1563.9,
+    "materiales": 1801.7,
+    "manoDeObra": 1215.2
+  },
+  {
+    "anio": 2022,
+    "mes": 6,
+    "clave": "2022-06",
+    "general": 1670.2,
+    "materiales": 1907.4,
+    "manoDeObra": 1322.6
+  },
+  {
+    "anio": 2022,
+    "mes": 7,
+    "clave": "2022-07",
+    "general": 1784,
+    "materiales": 2098.7,
+    "manoDeObra": 1322.6
+  },
+  {
+    "anio": 2022,
+    "mes": 8,
+    "clave": "2022-08",
+    "general": 1905.9,
+    "materiales": 2245.6,
+    "manoDeObra": 1407.9
+  },
+  {
+    "anio": 2022,
+    "mes": 9,
+    "clave": "2022-09",
+    "general": 2051.9,
+    "materiales": 2399.4,
+    "manoDeObra": 1541.9
+  },
+  {
+    "anio": 2022,
+    "mes": 10,
+    "clave": "2022-10",
+    "general": 2211.9,
+    "materiales": 2573,
+    "manoDeObra": 1682.6
+  },
+  {
+    "anio": 2022,
+    "mes": 11,
+    "clave": "2022-11",
+    "general": 2369.7,
+    "materiales": 2747.7,
+    "manoDeObra": 1815.7
+  },
+  {
+    "anio": 2022,
+    "mes": 12,
+    "clave": "2022-12",
+    "general": 2552.3,
+    "materiales": 2933.6,
+    "manoDeObra": 1993.4
+  },
+  {
+    "anio": 2023,
+    "mes": 1,
+    "clave": "2023-01",
+    "general": 2713.1,
+    "materiales": 3118.8,
+    "manoDeObra": 2125.6
+  },
+  {
+    "anio": 2023,
+    "mes": 2,
+    "clave": "2023-02",
+    "general": 2865.3,
+    "materiales": 3276.5,
+    "manoDeObra": 2262.7
+  },
+  {
+    "anio": 2023,
+    "mes": 3,
+    "clave": "2023-03",
+    "general": 2998.7,
+    "materiales": 3482.1,
+    "manoDeObra": 2290.2
+  },
+  {
+    "anio": 2023,
+    "mes": 4,
+    "clave": "2023-04",
+    "general": 3228.5,
+    "materiales": 3740.9,
+    "manoDeObra": 2477.5
+  },
+  {
+    "anio": 2023,
+    "mes": 5,
+    "clave": "2023-05",
+    "general": 3448.3,
+    "materiales": 3985.6,
+    "manoDeObra": 2660.9
+  },
+  {
+    "anio": 2023,
+    "mes": 6,
+    "clave": "2023-06",
+    "general": 3662.2,
+    "materiales": 4282.6,
+    "manoDeObra": 2752.8
+  },
+  {
+    "anio": 2023,
+    "mes": 7,
+    "clave": "2023-07",
+    "general": 4001.9,
+    "materiales": 4678.3,
+    "manoDeObra": 3010.5
+  },
+  {
+    "anio": 2023,
+    "mes": 8,
+    "clave": "2023-08",
+    "general": 4789.7,
+    "materiales": 5707.8,
+    "manoDeObra": 3444.1
+  },
+  {
+    "anio": 2023,
+    "mes": 9,
+    "clave": "2023-09",
+    "general": 5215.9,
+    "materiales": 6219.5,
+    "manoDeObra": 3744.9
+  },
+  {
+    "anio": 2023,
+    "mes": 10,
+    "clave": "2023-10",
+    "general": 5790,
+    "materiales": 6979.6,
+    "manoDeObra": 4046.5
+  },
+  {
+    "anio": 2023,
+    "mes": 11,
+    "clave": "2023-11",
+    "general": 6785.2,
+    "materiales": 8345.6,
+    "manoDeObra": 4498
+  },
+  {
+    "anio": 2023,
+    "mes": 12,
+    "clave": "2023-12",
+    "general": 9049.8,
+    "materiales": 11806.7,
+    "manoDeObra": 5009
+  },
+  {
+    "anio": 2024,
+    "mes": 1,
+    "clave": "2024-01",
+    "general": 10331,
+    "materiales": 13277.8,
+    "manoDeObra": 6011.7
+  },
+  {
+    "anio": 2024,
+    "mes": 2,
+    "clave": "2024-02",
+    "general": 11228.3,
+    "materiales": 14214.4,
+    "manoDeObra": 6851.6
+  },
+  {
+    "anio": 2024,
+    "mes": 3,
+    "clave": "2024-03",
+    "general": 11669,
+    "materiales": 14955.8,
+    "manoDeObra": 6851.6
+  },
+  {
+    "anio": 2024,
+    "mes": 4,
+    "clave": "2024-04",
+    "general": 12216.2,
+    "materiales": 15226.8,
+    "manoDeObra": 7803.5
+  },
+  {
+    "anio": 2024,
+    "mes": 5,
+    "clave": "2024-05",
+    "general": 12747.4,
+    "materiales": 15537.5,
+    "manoDeObra": 8657.9
+  },
+  {
+    "anio": 2024,
+    "mes": 6,
+    "clave": "2024-06",
+    "general": 13295.8,
+    "materiales": 15811.7,
+    "manoDeObra": 9608.3
+  },
+  {
+    "anio": 2024,
+    "mes": 7,
+    "clave": "2024-07",
+    "general": 13574.8,
+    "materiales": 16281,
+    "manoDeObra": 9608.3
+  },
+  {
+    "anio": 2024,
+    "mes": 8,
+    "clave": "2024-08",
+    "general": 14017.6,
+    "materiales": 16700.7,
+    "manoDeObra": 10084.9
+  },
+  {
+    "anio": 2024,
+    "mes": 9,
+    "clave": "2024-09",
+    "general": 14366.9,
+    "materiales": 17016.6,
+    "manoDeObra": 10483.3
+  },
+  {
+    "anio": 2024,
+    "mes": 10,
+    "clave": "2024-10",
+    "general": 14614.9,
+    "materiales": 17149.9,
+    "manoDeObra": 10899.2
+  },
+  {
+    "anio": 2024,
+    "mes": 11,
+    "clave": "2024-11",
+    "general": 15043,
+    "materiales": 17375.7,
+    "manoDeObra": 11624.1
+  },
+  {
+    "anio": 2024,
+    "mes": 12,
+    "clave": "2024-12",
+    "general": 15356.4,
+    "materiales": 17585.1,
+    "manoDeObra": 12089.7
+  },
+  {
+    "anio": 2025,
+    "mes": 1,
+    "clave": "2025-01",
+    "general": 15592.5,
+    "materiales": 17825.2,
+    "manoDeObra": 12319.9
+  },
+  {
+    "anio": 2025,
+    "mes": 2,
+    "clave": "2025-02",
+    "general": 15852.4,
+    "materiales": 17967.5,
+    "manoDeObra": 12752.3
+  },
+  {
+    "anio": 2025,
+    "mes": 3,
+    "clave": "2025-03",
+    "general": 15995.4,
+    "materiales": 18122.5,
+    "manoDeObra": 12877.8
+  },
+  {
+    "anio": 2025,
+    "mes": 4,
+    "clave": "2025-04",
+    "general": 16253.5,
+    "materiales": 18640.1,
+    "manoDeObra": 12755.3
+  },
+  {
+    "anio": 2025,
+    "mes": 5,
+    "clave": "2025-05",
+    "general": 16521.3,
+    "materiales": 18695.2,
+    "manoDeObra": 13334.9
+  },
+  {
+    "anio": 2025,
+    "mes": 6,
+    "clave": "2025-06",
+    "general": 16643.4,
+    "materiales": 18826.5,
+    "manoDeObra": 13443.5
+  },
+  {
+    "anio": 2025,
+    "mes": 7,
+    "clave": "2025-07",
+    "general": 16939.5,
+    "materiales": 19141.7,
+    "manoDeObra": 13711.8
+  },
+  {
+    "anio": 2025,
+    "mes": 8,
+    "clave": "2025-08",
+    "general": 17187.6,
+    "materiales": 19490.2,
+    "manoDeObra": 13812.6
+  },
+  {
+    "anio": 2025,
+    "mes": 9,
+    "clave": "2025-09",
+    "general": 17762.3,
+    "materiales": 20187.5,
+    "manoDeObra": 14207.5
+  },
+  {
+    "anio": 2025,
+    "mes": 10,
+    "clave": "2025-10",
+    "general": 18172.8,
+    "materiales": 20740.8,
+    "manoDeObra": 14408.8
+  },
+  {
+    "anio": 2025,
+    "mes": 11,
+    "clave": "2025-11",
+    "general": 18534.9,
+    "materiales": 21055.9,
+    "manoDeObra": 14839.9
+  },
+  {
+    "anio": 2025,
+    "mes": 12,
+    "clave": "2025-12",
+    "general": 18776.5,
+    "materiales": 21335.3,
+    "manoDeObra": 15026.2
+  },
+  {
+    "anio": 2026,
+    "mes": 1,
+    "clave": "2026-01",
+    "general": 19209.4,
+    "materiales": 21778,
+    "manoDeObra": 15444.4
+  },
+  {
+    "anio": 2026,
+    "mes": 2,
+    "clave": "2026-02",
+    "general": 19453,
+    "materiales": 22007.9,
+    "manoDeObra": 15708.2
+  },
+  {
+    "anio": 2026,
+    "mes": 3,
+    "clave": "2026-03",
+    "general": 19771.2,
+    "materiales": 22204.2,
+    "manoDeObra": 16205.2
+  },
+  {
+    "anio": 2026,
+    "mes": 4,
+    "clave": "2026-04",
+    "general": 20493,
+    "materiales": 22870,
+    "manoDeObra": 17009.6
+  },
+  {
+    "anio": 2026,
+    "mes": 5,
+    "clave": "2026-05",
+    "general": 21035.6,
+    "materiales": 23500.2,
+    "manoDeObra": 17423.2
+  },
+  {
+    "anio": 2026,
+    "mes": 6,
+    "clave": "2026-06",
+    "general": 21641.1,
+    "materiales": 23901.9,
+    "manoDeObra": 18327.3
+  },
+  {
     "anio": 2026,
     "mes": 7,
-    "periodo": "julio 2026",
     "clave": "2026-07",
-    "variacion": {
-      "general": 1.48,
-      "materiales": 1.04,
-      "manoDeObra": 2.32
-    },
-    "indice": {
-      "general": 21960.7,
-      "materiales": 24149.4,
-      "manoDeObra": 18752.8
-    },
-    "interanual": 29.6,
-    "proximaPublicacion": "Entre el 20 y 25 de septiembre 2026",
-    "fuentes": [
-      "calculadoracac.com.ar",
-      "factibilia.com"
-    ],
-    "discrepancia": null,
-    "consultado": "2026-09-08T16:59:02.822Z"
+    "general": 21960.7,
+    "materiales": 24149.4,
+    "manoDeObra": 18752.8
   }
 ]

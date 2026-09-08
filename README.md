@@ -7,7 +7,7 @@ Avisos automáticos por **email, Telegram y/o WhatsApp**, para vos y para quien 
 | 🟢 Apertura | días hábiles, 11:30 ART | oficial y blue (compra/venta), brecha y variación contra el cierre anterior |
 | 🔴 Cierre | días hábiles, 18:15 ART | lo mismo, con la variación del día |
 | ⚡ Salto | días hábiles, se mira cada 20 min de 11:00 a 18:00 | sólo si el dólar se movió fuerte dentro del día |
-| 🏗️ Índice CAC | una vez por mes, cuando CAMARCO publica | costo de la construcción: nivel general, materiales y mano de obra |
+| 🏗️ Índice CAC | una vez por mes, cuando CAMARCO publica | costo de la construcción: nivel general, materiales y mano de obra, el año en curso mes a mes y el acumulado |
 
 Todo corre en **GitHub Actions** (gratis en repos públicos) y usa **APIs públicas argentinas**, sin claves ni cuentas pagas.
 
@@ -16,7 +16,16 @@ Todo corre en **GitHub Actions** (gratis en repos públicos) y usa **APIs públi
 ## Fuentes de datos
 
 - **Dólar:** [dolarapi.com](https://dolarapi.com) (principal) con respaldo automático en [argentinadatos.com](https://argentinadatos.com). Gratis, sin API key.
-- **Índice CAC:** CAMARCO lo publica en PDF una vez por mes, entre el 20 y el 25, y **no tiene API oficial**. Se leen dos réplicas públicas y se combinan: `calculadoracac.com.ar` (variaciones con dos decimales y fecha de la próxima publicación) y `factibilia.com` (valores absolutos del índice, los que se usan para actualizar contratos). Si una se cae, alcanza con la otra; si cambian las dos el workflow falla y avisa por GitHub.
+- **Índice CAC:** CAMARCO lo publica en PDF una vez por mes, entre el 20 y el 25, y **no tiene API oficial**. Se usa el endpoint público `factibilia.com/api/herramientas/cac`, que devuelve la serie mensual completa desde 2011 (nivel general, materiales y mano de obra), y se cruza el período contra `calculadoracac.com.ar`, que además da la ventana de la próxima publicación. Si la API se cae hay un respaldo que lee el HTML. Las variaciones se calculan desde la serie, no se copian del titular.
+
+### Cuidado con el mes del CAC
+
+Hay dos convenciones para nombrar el mismo número:
+
+- **CAMARCO lo nombra por el mes que mide.** El índice de julio 2026 (+1,48%) se publica alrededor del 20 de agosto.
+- **En los cálculos de obra se lo nombra por el mes en que se aplica.** Como el último publicado es el que se usa, ese mismo +1,48% aparece como "septiembre 2026" en las planillas de aportes.
+
+Son el mismo dato con dos meses de diferencia en la etiqueta. El aviso muestra las dos (`julio 2026 · se aplica a septiembre 2026`) justamente para que nadie tenga que adivinar cuál es.
 
 ---
 

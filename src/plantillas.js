@@ -115,54 +115,97 @@ export function mailSalto({ saltos, cot, ancla }) {
 // ─── Índice CAC ───────────────────────────────────────────────────────────────
 
 export function mailCac(cac) {
+  const idx = (n) => (n == null ? '—' : n.toLocaleString('es-AR', { minimumFractionDigits: 1, maximumFractionDigits: 1 }));
+
   const fila = (etiqueta, indice, varia) => `
     <tr>
       <td style="padding:12px 0;border-bottom:1px solid ${BORDE};font-size:14px">${esc(etiqueta)}</td>
-      <td style="padding:12px 0;border-bottom:1px solid ${BORDE};font-size:14px;text-align:right;font-weight:600">${indice == null ? '—' : indice.toLocaleString('es-AR', { minimumFractionDigits: 1 })}</td>
+      <td style="padding:12px 0;border-bottom:1px solid ${BORDE};font-size:14px;text-align:right;font-weight:600">${idx(indice)}</td>
       <td style="padding:12px 0;border-bottom:1px solid ${BORDE};font-size:14px;text-align:right;font-weight:600;color:${color(varia)}">${varia == null ? '—' : `${flecha(varia)} ${pct(varia)}`}</td>
     </tr>`;
 
+  // Mes a mes del año en curso, sólo nivel general. El último mes va resaltado.
+  const filaMes = (m, ultimo) => `
+    <tr>
+      <td style="padding:9px 0;border-bottom:1px solid ${BORDE};font-size:13.5px;${ultimo ? 'font-weight:700' : ''}">${esc(m.nombre)}</td>
+      <td style="padding:9px 0;border-bottom:1px solid ${BORDE};font-size:13.5px;text-align:right;${ultimo ? 'font-weight:700' : ''}">${idx(m.indice)}</td>
+      <td style="padding:9px 0;border-bottom:1px solid ${BORDE};font-size:13.5px;text-align:right;font-weight:600;color:${color(m.variacion)}">${m.variacion == null ? '—' : pct(m.variacion)}</td>
+    </tr>`;
+
+  const encabezado = (a, b, c) => `
+    <tr>
+      <th style="text-align:left;font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:${GRIS};padding-bottom:6px;font-weight:600">${a}</th>
+      <th style="text-align:right;font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:${GRIS};padding-bottom:6px;font-weight:600">${b}</th>
+      <th style="text-align:right;font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:${GRIS};padding-bottom:6px;font-weight:600">${c}</th>
+    </tr>`;
+
   const cuerpo = `
-    <div style="font-size:13px;color:${GRIS};line-height:1.6;margin-bottom:10px">
-      Índice del costo de la construcción de la Cámara Argentina de la Construcción (CAMARCO).
-      Se publica una vez por mes y es el que se usa para actualizar contratos de obra.
+    <div style="font-size:13px;color:${GRIS};line-height:1.6;margin-bottom:12px">
+      Índice del costo de la construcción de CAMARCO. Es el último publicado, así que es el que se
+      aplica a <strong style="color:${AZUL}">${esc(cac.aplicaA)}</strong>.
     </div>
+
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:6px 0">
-      <tr>
-        <th style="text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:${GRIS};padding-bottom:6px">Serie</th>
-        <th style="text-align:right;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:${GRIS};padding-bottom:6px">Índice</th>
-        <th style="text-align:right;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:${GRIS};padding-bottom:6px">Mensual</th>
-      </tr>
+      ${encabezado('Serie', 'Índice', 'Mensual')}
       ${fila('Nivel general', cac.indice.general, cac.variacion.general)}
       ${fila('Materiales', cac.indice.materiales, cac.variacion.materiales)}
       ${fila('Mano de obra', cac.indice.manoDeObra, cac.variacion.manoDeObra)}
     </table>
-    ${cac.interanual == null ? '' : `<div style="font-size:13px;color:${GRIS};padding:10px 16px;background:#f8fafc;border-radius:10px;margin-top:12px">Variación interanual del nivel general: <strong style="color:${AZUL}">${pct(cac.interanual, 1)}</strong></div>`}
-    ${cac.proximaPublicacion ? `<div style="font-size:12px;color:${GRIS};margin-top:12px">Próxima publicación: ${esc(cac.proximaPublicacion)}.</div>` : ''}`;
 
+    <div style="font-size:11px;text-transform:uppercase;letter-spacing:.09em;color:${GRIS};font-weight:600;margin:24px 0 8px">
+      ${cac.anio} mes a mes · nivel general
+    </div>
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+      ${encabezado('Mes', 'Índice', 'Var.')}
+      ${cac.anioEnCurso.map((m, i) => filaMes(m, i === cac.anioEnCurso.length - 1)).join('')}
+    </table>
+
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin-top:16px;background:#f8fafc;border-radius:10px">
+      <tr><td style="padding:14px 16px">
+        <div style="font-size:12.5px;color:${GRIS}">Acumulado ${cac.anio} <span style="font-size:11.5px">(desde diciembre ${cac.anio - 1})</span></div>
+        <div style="font-size:24px;font-weight:700;color:${color(cac.acumulado)};margin-top:3px;letter-spacing:-.02em">${pct(cac.acumulado)}</div>
+        ${cac.anioAnterior ? `<div style="font-size:12.5px;color:${GRIS};margin-top:10px;padding-top:10px;border-top:1px solid ${BORDE}">Año ${cac.anioAnterior.anio} completo: <strong style="color:${AZUL}">${pct(cac.anioAnterior.pct)}</strong></div>` : ''}
+        ${cac.interanual == null ? '' : `<div style="font-size:12.5px;color:${GRIS};margin-top:6px">Interanual: <strong style="color:${AZUL}">${pct(cac.interanual, 1)}</strong></div>`}
+      </td></tr>
+    </table>
+
+    ${cac.proximaPublicacion ? `<div style="font-size:12px;color:${GRIS};margin-top:14px">Próxima publicación: ${esc(cac.proximaPublicacion)}.</div>` : ''}
+    <div style="font-size:11.5px;color:${GRIS};line-height:1.6;margin-top:10px">
+      CAMARCO nombra el índice por el mes que mide (${esc(cac.periodo)}) y lo publica al mes siguiente.
+      En los cálculos de obra suele nombrarse por el mes en que se aplica (${esc(cac.aplicaA)}). Es el mismo número.
+    </div>`;
+
+  const anchoMes = Math.max(...cac.anioEnCurso.map((m) => m.nombre.length));
   const texto = [
     `🏗️ ÍNDICE CAC — ${cac.periodo}`,
+    `(último publicado, se aplica a ${cac.aplicaA})`,
     '',
-    `Nivel general: ${cac.indice.general?.toLocaleString('es-AR') ?? '—'}  ${cac.variacion.general == null ? '' : `${flecha(cac.variacion.general)} ${pct(cac.variacion.general)}`}`,
-    `Materiales:    ${cac.indice.materiales?.toLocaleString('es-AR') ?? '—'}  ${cac.variacion.materiales == null ? '' : `${flecha(cac.variacion.materiales)} ${pct(cac.variacion.materiales)}`}`,
-    `Mano de obra:  ${cac.indice.manoDeObra?.toLocaleString('es-AR') ?? '—'}  ${cac.variacion.manoDeObra == null ? '' : `${flecha(cac.variacion.manoDeObra)} ${pct(cac.variacion.manoDeObra)}`}`,
-    cac.interanual == null ? null : `Interanual:    ${pct(cac.interanual, 1)}`,
+    `Nivel general: ${idx(cac.indice.general)}  ${flecha(cac.variacion.general)} ${pct(cac.variacion.general)}`,
+    `Materiales:    ${idx(cac.indice.materiales)}  ${flecha(cac.variacion.materiales)} ${pct(cac.variacion.materiales)}`,
+    `Mano de obra:  ${idx(cac.indice.manoDeObra)}  ${flecha(cac.variacion.manoDeObra)} ${pct(cac.variacion.manoDeObra)}`,
+    '',
+    `${cac.anio} mes a mes (nivel general):`,
+    ...cac.anioEnCurso.map((m) => `  ${m.nombre.padEnd(anchoMes)}  ${idx(m.indice).padStart(9)}  ${pct(m.variacion)}`),
+    '',
+    `Acumulado ${cac.anio}: ${pct(cac.acumulado)}`,
+    cac.anioAnterior ? `Año ${cac.anioAnterior.anio} completo: ${pct(cac.anioAnterior.pct)}` : null,
+    cac.interanual == null ? null : `Interanual: ${pct(cac.interanual, 1)}`,
     '',
     cac.proximaPublicacion ? `Próxima publicación: ${cac.proximaPublicacion}` : null,
   ].filter((l) => l !== null).join('\n');
 
   return {
-    asunto: `🏗️ Índice CAC ${cac.periodo}: ${pct(cac.variacion.general)} mensual`,
+    asunto: `🏗️ Índice CAC ${cac.periodo}: ${pct(cac.variacion.general)} · acumulado ${cac.anio} ${pct(cac.acumulado)}`,
     html: marco({
       titulo: `Índice CAC — ${cac.periodo}`,
-      bajada: 'Costo de la construcción en Argentina · dato mensual',
+      bajada: `Costo de la construcción · se aplica a ${cac.aplicaA}`,
       cuerpo,
       pie: `Fuentes: ${esc(cac.fuentes.join(', '))} (réplicas del informe de CAMARCO).<br>Aviso automático de <strong>dolar-alertas</strong>.`,
     }),
     texto,
     wa: {
-      titulo: `índice CAC de ${cac.periodo}`,
-      resumen: `General ${pct(cac.variacion.general)}${cac.indice.general == null ? '' : ` (${cac.indice.general.toLocaleString('es-AR')})`} · Materiales ${pct(cac.variacion.materiales)} · Mano de obra ${pct(cac.variacion.manoDeObra)}${cac.interanual == null ? '' : ` · Interanual ${pct(cac.interanual, 1)}`}`,
+      titulo: `índice CAC de ${cac.periodo} (se aplica a ${cac.aplicaA})`,
+      resumen: `General ${pct(cac.variacion.general)} (${idx(cac.indice.general)}) · Acumulado ${cac.anio} ${pct(cac.acumulado)}${cac.anioAnterior ? ` · ${cac.anioAnterior.anio} completo ${pct(cac.anioAnterior.pct)}` : ''} · Interanual ${pct(cac.interanual, 1)}`,
       momento: fechaHoraAR(),
     },
   };
