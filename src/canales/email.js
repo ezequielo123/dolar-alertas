@@ -3,10 +3,13 @@
 //   BREVO_API_KEY   -> brevo.com    (300 mails/día gratis, alcanza con verificar el remitente)
 // Si están las dos, gana Resend.
 
-const remitente = () => ({
-  email: process.env.MAIL_FROM || 'alertas@example.com',
-  nombre: process.env.MAIL_FROM_NOMBRE || 'Alertas Dólar',
-});
+function remitente() {
+  const email = process.env.MAIL_FROM?.trim();
+  // Brevo y Resend rechazan cualquier remitente que no esté verificado en la cuenta;
+  // fallar acá con un mensaje claro evita perseguir un 400 críptico del proveedor.
+  if (!email) throw new Error('Falta MAIL_FROM: tiene que ser la casilla verificada como remitente en Brevo o Resend');
+  return { email, nombre: process.env.MAIL_FROM_NOMBRE || 'Alertas Dólar' };
+}
 
 async function porResend({ para, asunto, html, texto }) {
   const de = remitente();
