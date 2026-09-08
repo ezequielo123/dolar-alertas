@@ -1,12 +1,23 @@
 {
-  "apertura": null,
+  "apertura": {
+    "fecha": "2026-09-08",
+    "hora": "08/09/2026 06:58",
+    "oficial": 1530,
+    "blue": 1545
+  },
   "cierre": {
     "fecha": "2026-09-08",
     "hora": "siembra inicial",
     "oficial": 1530,
     "blue": 1545
   },
-  "ancla": null,
+  "ancla": {
+    "fecha": "2026-09-08",
+    "hora": "08/09/2026 06:58",
+    "oficial": 1530,
+    "blue": 1545,
+    "motivo": "apertura"
+  },
   "saltos": [],
   "cac": null
 }
