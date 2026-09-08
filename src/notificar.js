@@ -1,5 +1,6 @@
 import { enviarEmail } from './canales/email.js';
 import { enviarWhatsapp } from './canales/whatsapp.js';
+import { enviarTelegram } from './canales/telegram.js';
 import { paraAviso } from './destinatarios.js';
 
 /**
@@ -7,7 +8,7 @@ import { paraAviso } from './destinatarios.js';
  * Un canal que falla no frena a los demás: se junta todo y se reporta al final.
  * @param {'apertura'|'cierre'|'salto'|'cac'} tipo
  */
-export async function avisar(tipo, { asunto, html, texto }) {
+export async function avisar(tipo, { asunto, html, texto, wa }) {
   const gente = paraAviso(tipo);
   if (!gente.length) {
     console.warn('⚠️  No hay destinatarios configurados (revisá el secreto DESTINATARIOS).');
@@ -37,10 +38,21 @@ export async function avisar(tipo, { asunto, html, texto }) {
     }
   }
 
-  // WhatsApp es uno por uno.
+  // Telegram y WhatsApp son uno por uno.
+  for (const d of gente.filter((x) => x.telegram)) {
+    try {
+      const r = await enviarTelegram({ chatId: d.telegram, texto });
+      if (r.salteado) console.log(`💬 Telegram a ${d.nombre} salteado: ${r.salteado}`);
+      else { enviados++; console.log(`💬 Telegram enviado a ${d.nombre}`); }
+    } catch (e) {
+      errores.push(`telegram ${d.nombre}: ${e.message}`);
+      console.error(`💬 error de Telegram a ${d.nombre}: ${e.message}`);
+    }
+  }
+
   for (const d of gente.filter((x) => x.whatsapp)) {
     try {
-      const r = await enviarWhatsapp({ telefono: d.whatsapp, callmebot: d.callmebot, texto });
+      const r = await enviarWhatsapp({ telefono: d.whatsapp, texto, wa });
       if (r.salteado) console.log(`📱 WhatsApp a ${d.nombre} salteado: ${r.salteado}`);
       else { enviados++; console.log(`📱 WhatsApp enviado a ${d.nombre} por ${r.proveedor}`); }
     } catch (e) {

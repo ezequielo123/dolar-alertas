@@ -10,6 +10,7 @@
     "cierre": "node bin/diario.mjs cierre",
     "intradia": "node bin/intradia.mjs",
     "cac": "node bin/cac.mjs",
-    "probar": "node bin/probar.mjs"
+    "probar": "node bin/probar.mjs",
+    "chats": "node bin/chats.mjs"
   }
 }

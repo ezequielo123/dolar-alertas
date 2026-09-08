@@ -8,6 +8,8 @@ import { ultimoCac } from '../src/fuentes/cac.js';
 import { mailDiario, mailSalto, mailCac } from '../src/plantillas.js';
 import { destinatarios } from '../src/destinatarios.js';
 import { hayEmail } from '../src/canales/email.js';
+import { hayTelegram } from '../src/canales/telegram.js';
+import { hayMeta, hayTwilio } from '../src/canales/whatsapp.js';
 import { fechaHoraAR } from '../src/lib/fmt.js';
 
 const salida = process.argv[2] || join(process.cwd(), 'vista-previa');
@@ -37,12 +39,20 @@ for (const [nombre, aviso] of avisos) {
   writeFileSync(join(salida, `${nombre}.html`), aviso.html);
   console.log(`\n═══ ${nombre.toUpperCase()} ═══`);
   console.log(`Asunto: ${aviso.asunto}`);
-  console.log('--- WhatsApp ---');
+  console.log('--- Telegram / Twilio (texto completo) ---');
   console.log(aviso.texto);
+  if (aviso.wa) {
+    console.log('--- WhatsApp por plantilla de Meta (3 variables, sin saltos de línea) ---');
+    console.log(`{{1}} ${aviso.wa.titulo}`);
+    console.log(`{{2}} ${aviso.wa.resumen}`);
+    console.log(`{{3}} ${aviso.wa.momento}`);
+  }
 }
 
 const gente = destinatarios();
 console.log(`\n═══ CONFIGURACIÓN (${fechaHoraAR()}) ═══`);
-console.log(`Email:        ${hayEmail() ? 'listo' : 'FALTA RESEND_API_KEY o BREVO_API_KEY'}`);
-console.log(`Destinatarios: ${gente.length ? gente.map((d) => `${d.nombre} [${[d.email && 'mail', d.whatsapp && (d.callmebot ? 'whatsapp' : 'whatsapp(sin apikey)')].filter(Boolean).join('+') || 'sin canales'}]`).join(', ') : 'FALTA el secreto DESTINATARIOS'}`);
+console.log(`Email:    ${hayEmail() ? 'listo' : 'FALTA RESEND_API_KEY o BREVO_API_KEY'}`);
+console.log(`Telegram: ${hayTelegram() ? 'listo' : 'FALTA TELEGRAM_BOT_TOKEN'}`);
+console.log(`WhatsApp: ${hayMeta() ? 'listo (Meta Cloud API)' : hayTwilio() ? 'listo (Twilio)' : 'sin configurar'}`);
+console.log(`Destinatarios: ${gente.length ? gente.map((d) => `${d.nombre} [${[d.email && 'mail', d.telegram && 'telegram', d.whatsapp && 'whatsapp'].filter(Boolean).join('+') || 'sin canales'}]`).join(', ') : 'FALTA el secreto DESTINATARIOS'}`);
 console.log(`\nHTML de los mails en: ${salida}`);

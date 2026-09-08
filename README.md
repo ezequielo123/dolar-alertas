@@ -1,6 +1,6 @@
 # dolar-alertas
 
-Avisos automáticos por **email y/o WhatsApp**, para vos y para quien quieras sumar:
+Avisos automáticos por **email, Telegram y/o WhatsApp**, para vos y para quien quieras sumar:
 
 | Aviso | Cuándo | Qué manda |
 |---|---|---|
@@ -36,15 +36,33 @@ Cualquiera de los dos, no hacen falta los dos:
 - **Brevo** — el más rápido de arrancar: 300 mails por día gratis y alcanza con validar tu casilla como remitente. Sacás la key en `brevo.com` → SMTP & API → API Keys.
 - **Resend** — 3.000 mails por mes gratis, pero necesita un dominio propio verificado (te sirve cualquiera de los que ya tenés).
 
-### 3. Habilitar WhatsApp (opcional, gratis)
+### 3. Elegir el canal de celular
 
-Con **CallMeBot** no hace falta cuenta ni tarjeta. **Cada persona que vaya a recibir avisos** tiene que hacer esto una sola vez, desde su propio teléfono:
+Hay dos caminos y el código habla los dos. **Telegram es el recomendado**: gratis de verdad, sin límites, sin aprobaciones y se configura en tres minutos.
 
-1. Agendar el número **+34 621 331 709**.
-2. Mandarle por WhatsApp el mensaje exacto: `I allow callmebot to send me messages`
-3. El bot contesta con una **apikey** de 6-7 dígitos. Esa es la que va en la configuración.
+**Telegram**
 
-> Si preferís algo con soporte y SLA, el código también habla Twilio: cargá `TWILIO_SID`, `TWILIO_TOKEN` y `TWILIO_FROM` y se usa automáticamente para los destinatarios sin apikey de CallMeBot.
+1. Escribirle a [@BotFather](https://t.me/BotFather), mandarle `/newbot` y ponerle nombre. Devuelve un **token**: ese es `TELEGRAM_BOT_TOKEN`.
+2. Cada persona que vaya a recibir avisos le manda un `hola` al bot (si no, Telegram no deja escribirle primero).
+3. Correr `TELEGRAM_BOT_TOKEN=... node bin/chats.mjs` para ver los **chat id** y pegarlos en el campo `telegram` de cada destinatario.
+
+**WhatsApp (Cloud API de Meta)**
+
+Es el WhatsApp de verdad, pero tiene tres condiciones: número de WhatsApp Business conectado a Meta, **plantilla aprobada** (un mensaje que inicia la empresa fuera de la ventana de 24 h no puede ser texto libre) y **costo por mensaje** — en Argentina ronda USD 0,012 la plantilla de utilidad, o sea unos pocos dólares al mes con este volumen.
+
+Si ya tenés una WABA andando (por ejemplo la de Zafo), alcanza con reusar su `WHATSAPP_TOKEN` y `WHATSAPP_PHONE_ID` y crear una plantilla nueva, categoría **Utility**, idioma **es**, con este cuerpo:
+
+```
+Alerta automática de {{1}}.
+
+{{2}}
+
+Datos al {{3}}. Este aviso lo configuraste vos; para darlo de baja, respondé este mensaje.
+```
+
+Las tres variables las llena el código y ninguna lleva saltos de línea, que es lo que Meta rechaza. Si le ponés otro nombre a la plantilla, cargalo en la variable `WHATSAPP_PLANTILLA`.
+
+> Twilio sigue soportado como tercera opción: `TWILIO_SID`, `TWILIO_TOKEN` y `TWILIO_FROM`.
 
 ### 4. Cargar los secretos en GitHub
 
@@ -55,18 +73,20 @@ En **Settings → Secrets and variables → Actions → New repository secret**:
 | `DESTINATARIOS` | sí | el JSON de acá abajo |
 | `BREVO_API_KEY` *o* `RESEND_API_KEY` | para email | la key del proveedor |
 | `MAIL_FROM` | para email | la casilla remitente verificada |
+| `TELEGRAM_BOT_TOKEN` | para Telegram | el token de BotFather |
+| `WHATSAPP_TOKEN` / `WHATSAPP_PHONE_ID` | para WhatsApp | credenciales de la Cloud API de Meta |
 | `TWILIO_SID` / `TWILIO_TOKEN` / `TWILIO_FROM` | no | sólo si usás Twilio |
 
 `DESTINATARIOS` es un array JSON, en una sola línea o en varias:
 
 ```json
 [
-  { "nombre": "Ezequiel", "email": "vos@mail.com",  "whatsapp": "+5493411111111", "callmebot": "123456" },
-  { "nombre": "Fulano",   "email": "otro@mail.com", "whatsapp": "+5493412222222", "callmebot": "654321" }
+  { "nombre": "Ezequiel", "email": "vos@mail.com",  "telegram": "123456789" },
+  { "nombre": "Fulano",   "email": "otro@mail.com", "telegram": "987654321", "whatsapp": "+5493412222222" }
 ]
 ```
 
-Todos los campos menos `nombre` son opcionales: quien tenga sólo `email` recibe sólo mail. Se puede limitar a qué avisos se suscribe cada uno:
+Todos los campos menos `nombre` son opcionales: quien tenga sólo `email` recibe sólo mail, y quien tenga `telegram` y `whatsapp` recibe por los dos. Se puede limitar a qué avisos se suscribe cada uno:
 
 ```json
 { "nombre": "Fulano", "email": "otro@mail.com", "solo": ["cierre", "cac"] }
@@ -105,7 +125,7 @@ Un salto se mide **contra el ancla del día**, que arranca en la apertura y se v
 node bin/probar.mjs
 ```
 
-Trae los datos reales de hoy, imprime los cuatro mensajes de WhatsApp y deja los HTML de los mails en `vista-previa/` para abrirlos en el navegador.
+Trae los datos reales de hoy, imprime los cuatro mensajes (el texto completo que va por Telegram y las tres variables que van por la plantilla de WhatsApp) y deja los HTML de los mails en `vista-previa/` para abrirlos en el navegador.
 
 Para simular un envío completo sin mandar nada:
 
@@ -125,9 +145,10 @@ bin/diario.mjs      apertura y cierre
 bin/intradia.mjs    detección de saltos
 bin/cac.mjs         índice CAC (avisa sólo si hay período nuevo)
 bin/probar.mjs      vista previa sin enviar
+bin/chats.mjs       chat id de Telegram de quien le escribió al bot
 
 src/fuentes/        dólar y CAC
-src/canales/        email (Resend/Brevo) y WhatsApp (CallMeBot/Twilio)
+src/canales/        email (Resend/Brevo), Telegram y WhatsApp (Meta/Twilio)
 src/plantillas.js   HTML de los mails y texto de WhatsApp
 src/estado.js       lectura y escritura de data/
 

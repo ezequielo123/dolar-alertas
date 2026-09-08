@@ -68,6 +68,11 @@ export function mailDiario({ momento, cot, referencia }) {
     asunto: `${esApertura ? '🟢' : '🔴'} Dólar ${esApertura ? 'apertura' : 'cierre'} — oficial ${pesosCorto(cot.oficial.venta)} · blue ${pesosCorto(cot.blue.venta)}`,
     html: marco({ titulo, bajada: `${fechaLargaAR()} · ${esApertura ? 'apertura del mercado' : 'cierre del mercado'}`, cuerpo, pie: pieEstandar(cot) }),
     texto,
+    wa: {
+      titulo: `dólar — ${esApertura ? 'apertura' : 'cierre'}`,
+      resumen: `Oficial ${pesosCorto(cot.oficial.venta)}${vOf == null ? '' : ` (${flecha(vOf)} ${pct(vOf)})`} · Blue ${pesosCorto(cot.blue.venta)}${vBl == null ? '' : ` (${flecha(vBl)} ${pct(vBl)})`} · Brecha ${pct(cot.brecha, 1)}`,
+      momento: fechaHoraAR(),
+    },
   };
 }
 
@@ -99,6 +104,11 @@ export function mailSalto({ saltos, cot, ancla }) {
     asunto: `⚡ Salto del ${peor.etiqueta.toLowerCase()}: ${pct(peor.pct)} → ${pesosCorto(peor.a)}`,
     html: marco({ titulo: '⚡ Salto del dólar', bajada: `${fechaLargaAR()} · aviso intradiario`, cuerpo, pie: pieEstandar(cot) }),
     texto,
+    wa: {
+      titulo: 'salto del dólar',
+      resumen: saltos.map((s2) => `${s2.etiqueta} ${pesosCorto(s2.de)} → ${pesosCorto(s2.a)} (${flecha(s2.pct)} ${pct(s2.pct)})`).join(' · '),
+      momento: fechaHoraAR(),
+    },
   };
 }
 
@@ -150,5 +160,10 @@ export function mailCac(cac) {
       pie: `Fuentes: ${esc(cac.fuentes.join(', '))} (réplicas del informe de CAMARCO).<br>Aviso automático de <strong>dolar-alertas</strong>.`,
     }),
     texto,
+    wa: {
+      titulo: `índice CAC de ${cac.periodo}`,
+      resumen: `General ${pct(cac.variacion.general)}${cac.indice.general == null ? '' : ` (${cac.indice.general.toLocaleString('es-AR')})`} · Materiales ${pct(cac.variacion.materiales)} · Mano de obra ${pct(cac.variacion.manoDeObra)}${cac.interanual == null ? '' : ` · Interanual ${pct(cac.interanual, 1)}`}`,
+      momento: fechaHoraAR(),
+    },
   };
 }
