@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: '0 13 * * *'
   workflow_dispatch:
+    inputs:
+      forzar:
+        description: 'Reenviar aunque el período ya se haya avisado'
+        type: boolean
+        default: false
 
 concurrency:
   group: dolar-estado
@@ -23,6 +28,7 @@ jobs:
         with: { node-version: '22' }
       - run: node bin/cac.mjs
         env:
+          FORZAR: ${{ inputs.forzar && '1' || '' }}
           DESTINATARIOS: ${{ secrets.DESTINATARIOS }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
