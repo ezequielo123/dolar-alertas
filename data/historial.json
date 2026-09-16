@@ -6417,11 +6417,11 @@
   },
   {
     "fecha": "2026-09-16",
-    "oficialCompra": 1480,
-    "oficialVenta": 1530,
+    "oficialCompra": 1485,
+    "oficialVenta": 1535,
     "blueCompra": 1540,
     "blueVenta": 1560,
-    "brecha": 1.96,
+    "brecha": 1.63,
     "aperturaOficial": 1530,
     "aperturaBlue": 1560
   }
