@@ -1,9 +1,9 @@
 {
   "apertura": {
-    "fecha": "2026-09-21",
-    "hora": "21/09/2026 16:39",
+    "fecha": "2026-09-22",
+    "hora": "22/09/2026 15:12",
     "oficial": 1535,
-    "blue": 1550
+    "blue": 1555
   },
   "cierre": {
     "fecha": "2026-09-21",
@@ -13,10 +13,10 @@
   },
   "ancla": {
     "fecha": "2026-09-22",
-    "hora": "22/09/2026 15:01",
+    "hora": "22/09/2026 15:12",
     "oficial": 1535,
     "blue": 1555,
-    "motivo": "primera lectura del día"
+    "motivo": "apertura"
   },
   "saltos": [],
   "cac": {
