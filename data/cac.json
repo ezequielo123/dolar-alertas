@@ -1494,5 +1494,13 @@
     "general": 21960.7,
     "materiales": 24149.4,
     "manoDeObra": 18752.8
+  },
+  {
+    "anio": 2026,
+    "mes": 8,
+    "clave": "2026-08",
+    "general": 22945.2,
+    "materiales": 24840,
+    "manoDeObra": 20167.9
   }
 ]
