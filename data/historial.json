@@ -1,13 +1,5 @@
 [
   {
-    "fecha": "2024-07-16",
-    "oficialCompra": 901,
-    "oficialVenta": 941,
-    "blueCompra": 1385,
-    "blueVenta": 1405,
-    "brecha": 49.31
-  },
-  {
     "fecha": "2024-07-17",
     "oficialCompra": 902,
     "oficialVenta": 942,
@@ -6462,5 +6454,13 @@
     "aperturaBlue": 1560,
     "cierreOficial": 1545,
     "cierreBlue": 1560
+  },
+  {
+    "fecha": "2026-09-30",
+    "oficialCompra": 1490,
+    "oficialVenta": 1540,
+    "blueCompra": 1540,
+    "blueVenta": 1560,
+    "brecha": 1.3
   }
 ]
