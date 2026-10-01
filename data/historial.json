@@ -6465,6 +6465,8 @@
     "oficialVenta": 1545,
     "blueCompra": 1535,
     "blueVenta": 1555,
-    "brecha": 0.65
+    "brecha": 0.65,
+    "aperturaOficial": 1545,
+    "aperturaBlue": 1555
   }
 ]
