@@ -6519,9 +6519,9 @@
     "fecha": "2026-10-21",
     "oficialCompra": 1495,
     "oficialVenta": 1545,
-    "blueCompra": 1550,
-    "blueVenta": 1570,
-    "brecha": 1.62,
+    "blueCompra": 1545,
+    "blueVenta": 1565,
+    "brecha": 1.29,
     "aperturaOficial": 1545,
     "aperturaBlue": 1570
   }
