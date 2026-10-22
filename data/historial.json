@@ -6527,6 +6527,8 @@
     "blueVenta": 1565,
     "brecha": 0.97,
     "aperturaOficial": 1550,
-    "aperturaBlue": 1565
+    "aperturaBlue": 1565,
+    "cierreOficial": 1550,
+    "cierreBlue": 1565
   }
 ]
