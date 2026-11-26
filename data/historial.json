@@ -6617,10 +6617,10 @@
     "fecha": "2026-11-26",
     "cierreOficial": 1630,
     "cierreBlue": 1710,
-    "oficialCompra": 1580,
-    "oficialVenta": 1630,
+    "oficialCompra": 1575,
+    "oficialVenta": 1625,
     "blueCompra": 1690,
     "blueVenta": 1710,
-    "brecha": 4.91
+    "brecha": 5.23
   }
 ]
